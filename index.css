@@ -1,0 +1,41 @@
+/* Includes Mapbox .css file */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: darkslategrey;
+  }
+  
+  #map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  #preview {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 300px;
+    z-index: 100;
+    border-radius: 10px;
+    box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.33);
+  }
+  
+  #fullSizeImg {
+    position: absolute; 
+    left: 0; 
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto; 
+    max-width: 90vw;
+    max-height: 90vh;
+    z-index: 110;
+    border-radius: 10px;
+    box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.33);
+  }
+  
+  .blur {
+    filter: blur(15px);
+  }
