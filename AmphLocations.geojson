@@ -673,12 +673,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#666100",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q3849447",
         "itemLabel": "Teatro romano",
         "itemDescription": "ancient Roman theatre in Málaga, Spain",
         "image": "",
         "geo": "Point(-4.41687142 36.721188676)",
-        "": "36.721188676)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20Malaga.jpg",
         "picAlbum": "Ancient Roman theater in Málaga",
         "article": ""
@@ -717,12 +719,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q17042990",
         "itemLabel": "Amphitheatre of Carmona",
         "itemDescription": "",
         "image": "",
         "geo": "Point(-5.650611 37.469667)",
-        "": "37.469667)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20de%20Carmona.jpg",
         "picAlbum": "Anfiteatro Romano de Carmona",
         "article": ""
@@ -784,12 +788,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q11704271",
         "itemLabel": "Roman Theatre of Italica",
         "itemDescription": "ancient Roman theatre in Santiponce, Spain",
         "image": "",
         "geo": "Point(-6.03878 37.4401)",
-        "": "37.4401)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Italica%20Roman%20Theatre.JPG",
         "picAlbum": "Ancient Roman theatre in Itálica",
         "article": ""
@@ -805,12 +811,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q648075",
         "itemLabel": "Amphitheatre of Italica",
         "itemDescription": "Ancient Roman amphitheatre in Santiponce, Spain",
         "image": "",
         "geo": "Point(-6.04661 37.44386)",
-        "": "37.44386)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Italica%20amphitheatre%20Santiponce%20Andalucia%20Spain.JPG",
         "picAlbum": "Anfiteatro de Itálica",
         "article": "https://en.wikipedia.org/wiki/Roman_amphitheatre_of_Italica"
@@ -4102,12 +4110,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28970912",
         "itemLabel": "Virunum amphitheatre",
         "itemDescription": "Roman amphitheatre in Maria Saal, Austria",
         "image": "",
         "geo": "Point(14.367 46.698)",
-        "": "46.698)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Maria%20Saal%20Zollfeld%20Virunum%20Arena%20Suedteil%2022092006%2002.jpg",
         "picAlbum": "Amphitheatre of Virunum",
         "article": ""
@@ -4774,12 +4784,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#5c0700",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28970911",
         "itemLabel": "Flavia Solva amphitheatre",
         "itemDescription": "Roman amphitheatre in Wagna, Austria",
         "image": "",
         "geo": "Point(15.567 46.767)",
-        "": "46.767)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Flavia%20Solva%20model.jpg",
         "picAlbum": "",
         "article": ""
@@ -4816,12 +4828,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#5c0700",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28973037",
         "itemLabel": "Gleisdorf amphitheatre",
         "itemDescription": "former Roman amphitheatre in Gleisdorf, Austria",
         "image": "",
         "geo": "Point(15.708 47.111)",
-        "": "47.111)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -5051,12 +5065,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#e32400",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28973943",
         "itemLabel": "Scarbantia amphitheatre",
         "itemDescription": "Roman amphitheatre in Sopron, Hungary",
         "image": "",
         "geo": "Point(16.589 47.693)",
-        "": "47.693)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Sopron-antik%2015%20Amphitheater.JPG",
         "picAlbum": "Sopron Amphitheater",
         "article": ""
@@ -5093,12 +5109,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#b51a00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q2844399",
         "itemLabel": "Carnuntum civil amphitheatre",
         "itemDescription": "Roman amphitheatre in Carnuntum, Austria",
         "image": "",
         "geo": "Point(16.85094444 48.11)",
-        "": "48.11)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20Roman%20amphitheatre%20in%20Petronell-Carnuntum.JPG",
         "picAlbum": "Carnuntum civil amphitheatre",
         "article": ""
@@ -5114,12 +5132,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ad3e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28970913",
         "itemLabel": "Carnuntum military amphitheatre",
         "itemDescription": "Roman amphitheatre in Bad Deutsch-Altenburg, Austria",
         "image": "",
         "geo": "Point(16.893 48.127)",
-        "": "48.127)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20Roman%20amphitheatre%20in%20Bad%20Deutsch-Altenburg.JPG",
         "picAlbum": "Carnuntum military amphitheatre",
         "article": ""
@@ -9647,12 +9667,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q56478291",
         "itemLabel": "Roman Theatre of Nora",
         "itemDescription": "ancient Roman theatre in Pula, Sardinia, Italy",
         "image": "",
         "geo": "Point(9.0162005 38.9844161)",
-        "": "38.9844161)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Resti%20teatro%20romano.JPG",
         "picAlbum": "Ancient Roman theatre (Nora)",
         "article": ""
@@ -9737,12 +9759,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7c2a00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q2844403",
         "itemLabel": "Roman Amphitheatre of Cagliari",
         "itemDescription": "Roman amphitheatre in Cagliari, Sardinia, Italy",
         "image": "",
         "geo": "Point(9.113052 39.223926)",
-        "": "39.223926)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20Amphitheatre%20of%20Caralis%20%28Cagliari%29.jpg",
         "picAlbum": "Amphitheatre (Cagliari)",
         "article": "https://en.wikipedia.org/wiki/Roman_Amphitheatre_of_Cagliari"
