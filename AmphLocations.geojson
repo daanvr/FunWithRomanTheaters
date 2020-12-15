@@ -1739,12 +1739,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ad3e00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28971508",
         "itemLabel": "Dambach amphitheatre",
         "itemDescription": "Roman amphitheatre in Unterschwaningen, Germany",
         "image": "",
         "geo": "Point(10.583 49.104)",
-        "": "49.104)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -2977,12 +2979,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#e32400",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q2111641",
         "itemLabel": "Künzing amphitheatre",
         "itemDescription": "building in Künzing, Lower Bavaria, Germany",
         "image": "",
         "geo": "Point(13.084 48.667)",
-        "": "48.667)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -4854,12 +4858,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28971092",
         "itemLabel": "Burnum amphitheatre",
         "itemDescription": "Roman amphitheatre in Ivoševci, Croatia",
         "image": "",
         "geo": "Point(16.018 44.019)",
-        "": "44.019)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -4938,12 +4944,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#77bb41",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q2844418",
         "itemLabel": "Roman amphitheatre of Salona",
         "itemDescription": "amphitheatre in Salona, Croatia",
         "image": "",
         "geo": "Point(16.47403 43.53847)",
-        "": "43.53847)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Amphitheatre%2C%20erected%20in%20the%20latter%20half%20of%20the%202nd%20century%20AD%2C%20the%20fights%20in%20the%20arena%20could%20be%20watched%20by%20some%2017%2C000%20spectators%2C%20Salona%20%2812248989063%29.jpg",
         "picAlbum": "Amphitheatre (Salona)",
         "article": ""
@@ -5190,12 +5198,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#5c0700",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28973939",
         "itemLabel": "Brigetio amphitheatre",
         "itemDescription": "Roman amphitheatre in Komárom, Hungary",
         "image": "",
         "geo": "Point(18.188 47.733)",
-        "": "47.733)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -5211,12 +5221,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#785700",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q774580",
         "itemLabel": "Aquincum military amphitheatre",
         "itemDescription": "Roman amphitheatre in Budapest, Hungary",
         "image": "",
         "geo": "Point(19.038888888 47.532777777)",
-        "": "47.532777777)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Amphitheatre.jpg",
         "picAlbum": "Ancient Roman military amphitheatre (Aquincum)",
         "article": "https://en.wikipedia.org/wiki/Aquincum_Military_Amphitheatre"
@@ -5232,12 +5244,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q774585",
         "itemLabel": "Aquincum civil amphitheatre",
         "itemDescription": "Roman amphitheatre in Budapest, Hungary",
         "image": "",
         "geo": "Point(19.04792 47.56761)",
-        "": "47.56761)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Budapest%20III.%2C%20Aquincum%2C%20Ancient%20Roman%20civil%20amphitheatre.jpg",
         "picAlbum": "Ancient Roman civil amphitheatre (Aquincum)",
         "article": "https://en.wikipedia.org/wiki/Aquincum_Civil_Amphitheatre"
@@ -5666,12 +5680,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3180446",
         "itemLabel": "Ancient Theatre of Ohrid",
         "itemDescription": "ancient Greek theatre in Ohrid, North Macedonia",
         "image": "",
         "geo": "Point(20.793806 41.114594)",
-        "": "41.114594)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Ohrid%20ancient%20theatre.JPG",
         "picAlbum": "Ancient Theatre of Ohrid",
         "article": "https://en.wikipedia.org/wiki/Ancient_Theatre_of_Ohrid"
@@ -5710,12 +5726,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28997289",
         "itemLabel": "Viminacium amphitheatre",
         "itemDescription": "Roman amphitheatre in Kostolac, Serbia",
         "image": "",
         "geo": "Point(21.22 44.738)",
-        "": "44.738)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Rekonstruisani%20amfiteatar.JPG",
         "picAlbum": "",
         "article": ""
@@ -5846,12 +5864,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q65953268",
         "itemLabel": "Ancient Theater of Megalopolis",
         "itemDescription": "ancient Greek theatre in Megalopoli, Greece",
         "image": "",
         "geo": "Point(22.127258 37.41017)",
-        "": "37.41017)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Megalopolis%20370%20BCE%20theater%20and%20plain.jpg",
         "picAlbum": "History of Megalopoli",
         "article": ""
@@ -5867,12 +5887,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#6f7608",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28217939",
         "itemLabel": "Theatre of Orchomenos (Arcadia)",
         "itemDescription": "ancient Greek theatre of Orchomenos (Arcadia), Greece",
         "image": "",
         "geo": "Point(22.3153 37.7246)",
-        "": "37.7246)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Orchomenos15.jpg",
         "picAlbum": "Ancient Greek Theatre of Orchomenos (Arcadia)",
         "article": ""
@@ -5888,12 +5910,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q17354418",
         "itemLabel": "Theatre of Aigeira",
         "itemDescription": "ancient Greek theatre in Aigeira, Greece",
         "image": "",
         "geo": "Point(22.377757 38.128549)",
-        "": "38.128549)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Egira.Th%C3%A9%C3%A2tre%202.JPG",
         "picAlbum": "",
         "article": ""
@@ -6070,12 +6094,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#38571a",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28996532",
         "itemLabel": "Drobeta amphitheatre",
         "itemDescription": "Roman amphitheatre in Drobeta-Turnu Severin, Romania",
         "image": "",
         "geo": "Point(22.666 44.624)",
-        "": "44.624)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -6091,12 +6117,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#38571a",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q43008437",
         "itemLabel": "Q43008437",
         "itemDescription": "heritage site in Mehedinți County, Romania",
         "image": "",
         "geo": "Point(22.666820339 44.623676545)",
-        "": "44.623676545)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -6112,12 +6140,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q24912661",
         "itemLabel": "Great Theatre of Argos",
         "itemDescription": "ancient Greek theatre in Argos, Greece",
         "image": "",
         "geo": "Point(22.719544 37.631605)",
-        "": "37.631605)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20Argos%20-%20Theatre%202.jpg",
         "picAlbum": "Ancient Greek theatre of Argos",
         "article": "https://en.wikipedia.org/wiki/Argos_Theater"
@@ -6133,12 +6163,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#38571a",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28996562",
         "itemLabel": "Sarmizegetusa amphitheatre",
         "itemDescription": "Roman amphitheatre in Sarmizegetusa, Romania",
         "image": "",
         "geo": "Point(22.786 45.517)",
-        "": "45.517)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Ulpia%20Traiana%20Sarmizegetusa%2012.JPG",
         "picAlbum": "Amphitheatre of Ulpia Traiana Sarmizegetusa",
         "article": ""
@@ -6154,12 +6186,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#6f7608",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28996603",
         "itemLabel": "Micia amphitheatre",
         "itemDescription": "Roman amphitheatre in Vețel, Romania",
         "image": "",
         "geo": "Point(22.817 45.915)",
-        "": "45.915)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -6175,12 +6209,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d58400",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q38281812",
         "itemLabel": "Ancient theater of Chaeronea",
         "itemDescription": "ancient Greek theatre in Chaeronea, Levadia, Greece",
         "image": "",
         "geo": "Point(22.841926 38.494365)",
-        "": "38.494365)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/%CE%98%CE%95%CE%91%CE%A4%CE%A1%CE%9F%20%CE%A7%CE%91%CE%99%CE%A1%CE%A9%CE%9D%CE%95%CE%99%CE%91%CE%A3.jpg",
         "picAlbum": "Ancient Greek theatre of Chaeronea",
         "article": ""
@@ -6196,12 +6232,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#38571a",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q25451392",
         "itemLabel": "Ancient Greek theatre of Corinth",
         "itemDescription": "building in Corinth, Peloponnese Region, Greece",
         "image": "",
         "geo": "Point(22.87694444 37.90694444)",
-        "": "37.90694444)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20Theater%20in%20Archeological%20site%20of%20Ancient%20Corinth.jpg",
         "picAlbum": "Ancient Greek theatre of Corinth",
         "article": ""
@@ -6217,12 +6255,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#38571a",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28973922",
         "itemLabel": "Corinth amphitheatre",
         "itemDescription": "Roman amphitheatre in Corinth, Greece",
         "image": "",
         "geo": "Point(22.892 37.91)",
-        "": "37.91)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -6238,12 +6278,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d29d00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28217951",
         "itemLabel": "Theatre of Orchomenos (Boeotia)",
         "itemDescription": "building in Orchomenos Municipality, Central Greece Region, Greece",
         "image": "",
         "geo": "Point(22.9752 38.4934)",
-        "": "38.4934)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Orchomenus%20theatre.jpg",
         "picAlbum": "Ancient Greek theatre of Orchomenos (Boeotia)",
         "article": ""
@@ -6259,12 +6301,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q608198",
         "itemLabel": "Theatre of Epidaurus",
         "itemDescription": "ancient Greek theatre",
         "image": "",
         "geo": "Point(23.079166666 37.596111111)",
-        "": "37.596111111)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/07Epidaurus%20Theater07.jpg",
         "picAlbum": "Theatre of Epidaurus",
         "article": "https://en.wikipedia.org/wiki/Ancient_Theatre_of_Epidaurus"
@@ -6280,12 +6324,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28996547",
         "itemLabel": "Porolissum amphitheatre",
         "itemDescription": "Roman amphitheatre in Mirșid, Romania",
         "image": "",
         "geo": "Point(23.154 47.178)",
-        "": "47.178)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Porolissum%20-%20Amphitheater%2016.jpg",
         "picAlbum": "Porolissum amphitheater",
         "article": ""
@@ -6301,12 +6347,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q38282660",
         "itemLabel": "Little Theatre of Epidaurus",
         "itemDescription": "ancient Greek theatre in the city of Epidauros, Greece",
         "image": "",
         "geo": "Point(23.1601 37.6334)",
-        "": "37.6334)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20small%20Theatre%20of%20Epidaurus%2C%20dated%20to%204th%20century%20BC%2C%20Ancient%20Epidaurus%20Village%20%2813928612751%29.jpg",
         "picAlbum": "Small Theatre of Epidauros",
         "article": ""
@@ -6322,12 +6370,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#8d8600",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q980970",
         "itemLabel": "Amphitheatre of Serdica",
         "itemDescription": "Roman amphitheatre in Sofia, Bulgaria",
         "image": "",
         "geo": "Point(23.328333333 42.697222222)",
-        "": "42.697222222)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Amphitheatre%20of%20Serdica%20-%20General%20view.jpg",
         "picAlbum": "Sofia amphitheatre",
         "article": "https://en.wikipedia.org/wiki/Amphitheatre_of_Serdica"
@@ -6343,12 +6393,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a96800",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28217926",
         "itemLabel": "Theatre of Zea",
         "itemDescription": "ancient Greek theatre in Piraeus, Athens, Greece",
         "image": "",
         "geo": "Point(23.6446 37.9373)",
-        "": "37.9373)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/7642%20-%20Piraeus%20Arch.%20Museum%2C%20Athens%20-%20Greek%20theatre%20-%20Photo%20by%20Giovanni%20Dall%27Orto%2C%20Nov%2014%202009.jpg",
         "picAlbum": "Ancient Greek theatre of Piraeus",
         "article": ""
@@ -6364,12 +6416,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q1328165",
         "itemLabel": "Odeon of Herodes Atticus",
         "itemDescription": "ancient theater in Athens Acropolis",
         "image": "",
         "geo": "Point(23.724524 37.970843)",
-        "": "37.970843)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Athen%20Odeon%20Herodes%20Atticus%20BW%202017-10-09%2013-12-44.jpg",
         "picAlbum": "Theatre of Herodes Atticus",
         "article": "https://en.wikipedia.org/wiki/Odeon_of_Herodes_Atticus"
@@ -6385,12 +6439,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q1227044",
         "itemLabel": "Theatre of Dionysus",
         "itemDescription": "ancient theater in the Acropolis of Athens",
         "image": "",
         "geo": "Point(23.727777 37.970404)",
-        "": "37.970404)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/DionysiusTheater.jpg",
         "picAlbum": "Theatre of Dionysus",
         "article": "https://en.wikipedia.org/wiki/Theatre_of_Dionysus"
@@ -6406,12 +6462,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#8d8600",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q20552028",
         "itemLabel": "Ancient Greek theatre of Eretria",
         "itemDescription": "building in Eretria, Central Greece Region, Greece",
         "image": "",
         "geo": "Point(23.790615 38.399275)",
-        "": "38.399275)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Theatre3.jpg",
         "picAlbum": "Ancient Greek theatre of Eretria",
         "article": ""
@@ -6427,12 +6485,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q46812956",
         "itemLabel": "Theatre of Thorikos",
         "itemDescription": "ancient Greek theatre in Thorikos, Lavreotiki, Greece",
         "image": "",
         "geo": "Point(24.05375 37.738028)",
-        "": "37.738028)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/AncientTheater.ofThorikos4.jpg",
         "picAlbum": "Ancient Greek theatre of Thorikos",
         "article": ""
@@ -6471,12 +6531,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q27864544",
         "itemLabel": "Ancient theatre of Philippi",
         "itemDescription": "",
         "image": "",
         "geo": "Point(24.28672 41.01282)",
-        "": "41.01282)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20Theatre%2C%20built%20by%20Philip%20II%20in%20the%204th%20century%20BC%20and%20later%20reconstructed%20by%20the%20Romans%2C%20Philippi%20%287272297822%29.jpg",
         "picAlbum": "Ancient theatre of Philippi",
         "article": ""
@@ -6538,12 +6600,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q40965494",
         "itemLabel": "Greek Theatre of Thassos",
         "itemDescription": "ancient Greek theatre in Thasos, Greece",
         "image": "",
         "geo": "Point(24.71762 40.78208)",
-        "": "40.78208)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20Theater%20%28Thasos%29.jpg",
         "picAlbum": "",
         "article": ""
@@ -6651,12 +6715,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q41074339",
         "itemLabel": "Ancient Greek theatre of Maroneia",
         "itemDescription": "building in Maroneia-Sapes Municipality, East Macedonia and Thrace, Greece",
         "image": "",
         "geo": "Point(25.51924 40.87881)",
-        "": "40.87881)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/20100913%20Ancient%20Theater%20Marwneia%20Rhodope%20Greece%20panoramic%201.jpg",
         "picAlbum": "Ancient Greek theatre of Maroneia",
         "article": ""
