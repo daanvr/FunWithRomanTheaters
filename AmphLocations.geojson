@@ -6511,12 +6511,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c3d117",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28971088",
         "itemLabel": "Hisarya amphitheatre",
         "itemDescription": "Roman amphitheatre in Hisarya, Bulgaria",
         "image": "",
         "geo": "Point(24.703 42.5)",
-        "": "42.5)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -6553,12 +6555,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q1363208",
         "itemLabel": "Plovdiv Roman theatre",
         "itemDescription": "Roman theatre in Plovdiv, Bulgaria",
         "image": "",
         "geo": "Point(24.751005555 42.146838888)",
-        "": "42.146838888)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Antique-theater-plovdiv.jpg",
         "picAlbum": "Ancient Roman theatre (Plovdiv)",
         "article": "https://en.wikipedia.org/wiki/Plovdiv_Roman_theatre"
@@ -6934,12 +6938,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a77b00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28971084",
         "itemLabel": "Marcianopolis amphitheatre",
         "itemDescription": "Roman amphitheatre in Devnya, Bulgaria",
         "image": "",
         "geo": "Point(27.586 43.229)",
-        "": "43.229)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -7024,12 +7030,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d29d00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28996587",
         "itemLabel": "Tomis amphitheatre",
         "itemDescription": "Roman amphitheatre in Constanța, Romania",
         "image": "",
         "geo": "Point(28.654 44.178)",
-        "": "44.178)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -7451,12 +7459,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q12078603",
         "itemLabel": "Theatre of Chersonesus",
         "itemDescription": "ancient Greek theatre in Chersonesus in today's Sevastopol, Crimea",
         "image": "",
         "geo": "Point(33.506 44.607)",
-        "": "44.607)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%BD%D1%82%D0%B8%D1%87%D0%BD%D1%8B%D0%B9%20%D1%82%D0%B5%D0%B0%D1%82%D1%80%20%D0%B2%20%D0%A5%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B5%D1%81%D0%B5%202.jpg",
         "picAlbum": "Theatre in Chersones",
         "article": ""
