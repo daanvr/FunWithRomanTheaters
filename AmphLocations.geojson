@@ -6448,12 +6448,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c3d117",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q38381593",
         "itemLabel": "Theatre of Aptera",
         "itemDescription": "ancient Greek theatre",
         "image": "",
         "geo": "Point(24.141106 35.461233)",
-        "": "35.461233)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/%CE%91%CF%81%CF%87%CE%B1%CE%AF%CE%BF%20%CE%98%CE%AD%CE%B1%CF%84%CF%81%CE%BF%20%CE%86%CF%80%CF%84%CE%B5%CF%81%CE%B1.jpg",
         "picAlbum": "Ancient Greek theatre of Aptera",
         "article": ""
@@ -6490,12 +6492,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d29d00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q38184737",
         "itemLabel": "Ancient theatre of Milos",
         "itemDescription": "ancient Greek theatre in Milos, Greece, rebuilt in Roman times",
         "image": "",
         "geo": "Point(24.4210603 36.7379722)",
-        "": "36.7379722)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20theatre%20of%20Milos%2C%20Roman%20times%2C%2015M5841.jpg",
         "picAlbum": "Ancient Greek theatre of Milos",
         "article": ""
@@ -6578,12 +6582,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q74589496",
         "itemLabel": "Roman Odeon of Gortyn",
         "itemDescription": "ancient Roman odeon in Gortys, Greece",
         "image": "",
         "geo": "Point(24.9468553 35.0630857)",
-        "": "35.0630857)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Gortyn%205.jpg",
         "picAlbum": "Roman Odeon (Gortys)",
         "article": ""
@@ -6599,12 +6605,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28973923",
         "itemLabel": "Gortyn amphitheatre",
         "itemDescription": "Roman amphitheatre in Gortyn, Greece",
         "image": "",
         "geo": "Point(24.958 35.058)",
-        "": "35.058)",
         "pic": "",
         "picAlbum": "",
         "article": ""
