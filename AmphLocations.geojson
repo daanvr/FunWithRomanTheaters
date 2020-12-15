@@ -6514,7 +6514,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#b51a00",
+        "marker-color": "#96d35f",
         "marker-size": "medium",
         "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q15723502",
@@ -6558,12 +6558,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3213827",
         "itemLabel": "theatre of Assos",
         "itemDescription": "",
         "image": "",
         "geo": "Point(26.337823 39.488331)",
-        "": "39.488331)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Theatre%40Assos%28Turkey%29%2C%20April%20%2709.JPG",
         "picAlbum": "Ancient Greek theatre (Assos)",
         "article": ""
@@ -6579,12 +6581,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#785700",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q20055333",
         "itemLabel": "Ancient theatre of Mytilene",
         "itemDescription": "ancient Greek theatre in Mytilene, Lesbos, Greece",
         "image": "",
         "geo": "Point(26.546806 39.108087)",
-        "": "39.108087)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Overzicht%20theater%20Mytilini.jpg",
         "picAlbum": "",
         "article": ""
@@ -6600,12 +6604,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d29d00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q22681622",
         "itemLabel": "Theatre of the Pythagoreion",
         "itemDescription": "ancient Greek theatre in Samos, Greece",
         "image": "",
         "geo": "Point(26.935 37.69527778)",
-        "": "37.69527778)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Pythagoreio%20theatre%202.jpg",
         "picAlbum": "Ancient Greek theatre of Pythagoreio",
         "article": ""
@@ -6621,12 +6627,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q630373",
         "itemLabel": "Asclepieion of Pergamon",
         "itemDescription": "temple complex with a Greek theatre in Pergamon",
         "image": "",
         "geo": "Point(27.165475 39.118857)",
-        "": "39.118857)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/PergamonAsklepieionHofundTheater.jpg",
         "picAlbum": "",
         "article": ""
@@ -6642,12 +6650,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002436",
         "itemLabel": "Pergamon amphitheatre",
         "itemDescription": "Roman amphitheatre in Bergama, Turkey",
         "image": "",
         "geo": "Point(27.174 39.126)",
-        "": "39.126)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20remains%20of%20Roman%20amphitheatre%20%28view%20from%20the%20Acropolis%29%2C%20Pergamon%20%287107158993%29.jpg",
         "picAlbum": "Roman amphitheatre in Pergamon",
         "article": ""
@@ -6684,12 +6694,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q1646054",
         "itemLabel": "Ancient Greek theatre of Pergamon",
         "itemDescription": "theatre at the castle hill in Pergamon, Turkey",
         "image": "",
         "geo": "Point(27.183405 39.131787)",
-        "": "39.131787)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Theatre%20of%20Pergamon.jpg",
         "picAlbum": "Ancient Greek theatre (Pergamon)",
         "article": ""
@@ -6705,12 +6717,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d9eb37",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q56640740",
         "itemLabel": "Greek Theatre of Miletus",
         "itemDescription": "ancient Greek theatre in Miletus in today's Aydın province, Turkey",
         "image": "",
         "geo": "Point(27.27574 37.53059)",
-        "": "37.53059)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Antikes%20Theater%20in%20Milet%20%28T%C3%BCrkei%29%2C%20Orchestra%20und%20Zuschauerraum.JPG",
         "picAlbum": "Ancient Greek theatre in Miletus",
         "article": ""
@@ -6726,12 +6740,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q16330215",
         "itemLabel": "Ancient Odeon of Kos",
         "itemDescription": "ancient Roman odeon in Kos, Greece",
         "image": "",
         "geo": "Point(27.28472222 36.88972222)",
-        "": "36.88972222)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Odeon%2C%20Kos%20Town.jpg",
         "picAlbum": "Ancient Odeon (Kos)",
         "article": ""
@@ -6747,12 +6763,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c3d117",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q56194553",
         "itemLabel": "Greek Theatre of Priene",
         "itemDescription": "ancient Greek theatre in Güllübahçe, Turkey",
         "image": "",
         "geo": "Point(27.29785 37.6599)",
-        "": "37.6599)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/PrieneTheatreMay2007.jpg",
         "picAlbum": "Ancient Greek theatre (Priene)",
         "article": ""
@@ -6768,12 +6786,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q15723477",
         "itemLabel": "Theatre of Ephesus",
         "itemDescription": "ancient Greek theatre in Ephesus, Efes, Turkey",
         "image": "",
         "geo": "Point(27.34273 37.94101)",
-        "": "37.94101)",
         "pic": "",
         "picAlbum": "Ancient Greek theatre (Ephesus)",
         "article": ""
@@ -6789,12 +6809,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#e63b7a",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q6023471",
         "itemLabel": "Ancient Theatre of Halicarnassus",
         "itemDescription": "ancient Greek theatre of Halicarnassos, altered in Roman times, in Bodrum, Turkey",
         "image": "",
         "geo": "Point(27.4215425 37.040121)",
-        "": "37.040121)",
         "pic": "",
         "picAlbum": "Ancient Roman theater in Halicarnassus",
         "article": "https://en.wikipedia.org/wiki/Theatre_at_Halicarnassus"
@@ -6831,12 +6853,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ad3e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002438",
         "itemLabel": "Cyzicus amphitheatre",
         "itemDescription": "Roman amphitheatre in Erdek, Turkey",
         "image": "",
         "geo": "Point(27.884 40.398)",
-        "": "40.398)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -6852,12 +6876,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#b51a00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q30503699",
         "itemLabel": "Greek Theatre of Lindos",
         "itemDescription": "ancient Greek theatre in Lindos, Rhodes, Greece",
         "image": "",
         "geo": "Point(28.087222222 36.089722222)",
-        "": "36.089722222)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20Greek%20theatre%20in%20Lindos%2001.jpg",
         "picAlbum": "Ancient Greek theatre (Lindos)",
         "article": ""
@@ -6873,12 +6899,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q30503698",
         "itemLabel": "Odeon of Rhodes",
         "itemDescription": "ancient Greek odeon in Rhodes, Greece",
         "image": "",
         "geo": "Point(28.211944444 36.440277777)",
-        "": "36.440277777)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Theatre%20Rhodes%202.jpg",
         "picAlbum": "Acropolis of Rhodes - Ancient Odeon",
         "article": ""
@@ -6915,12 +6943,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#77bb41",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q98649674",
         "itemLabel": "Odeion or Bouleuterion of Aphrodisias",
         "itemDescription": "Ancient Roman odeion or bouleuterion in Aphrodisias in today's Turkey",
         "image": "",
         "geo": "Point(28.723637 37.709228)",
-        "": "37.709228)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Afrodisias%20-%20Aphrodisias%20-%20Ode%C3%B3n.jpg",
         "picAlbum": "Odeion (Aphrodisias)",
         "article": ""
@@ -6936,12 +6966,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#77bb41",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q59771443",
         "itemLabel": "Roman Theatre of Aphrodisias",
         "itemDescription": "ancient Roman theatre in Aphrodisias (near today's Geyre, Aydin, Turkey)",
         "image": "",
         "geo": "Point(28.725180555 37.70715)",
-        "": "37.70715)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Aphrodisias%20-%20Roman%20Theatre%2001.jpg",
         "picAlbum": "Ancient Roman theatre (Aphrodisias)",
         "article": ""
@@ -6957,12 +6989,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3982324",
         "itemLabel": "Roman theatre of Hierapolis",
         "itemDescription": "ancient Roman theatre in Hierapolis, Phrygia (now part of Pamukkale, Turkey)",
         "image": "",
         "geo": "Point(29.1292 37.9267)",
-        "": "37.9267)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/TR%20Pamukkale%20Hierapolis%20asv2020-02%20img29.jpg",
         "picAlbum": "Ancient Roman theatre in Hierapolis",
         "article": ""
@@ -6978,12 +7012,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ad3e00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q56640720",
         "itemLabel": "Greek Theatre of Antiphellos",
         "itemDescription": "ancient Greek theatre in Kas, Turkey",
         "image": "",
         "geo": "Point(29.634930555 36.199911111)",
-        "": "36.199911111)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Antiphellus%20Ancient%20Theatre%20-%202014.10%20-%20panoramio.jpg",
         "picAlbum": "Ancient Greek theatre (Antiphellus)",
         "article": ""
@@ -6999,12 +7035,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q23976188",
         "itemLabel": "Roman Theatre of Alexandria",
         "itemDescription": "ancient Roman theatre or odeon in Alexandria, Egypt",
         "image": "",
         "geo": "Point(29.904043 31.194651)",
-        "": "31.194651)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -7020,12 +7058,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7c2a00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q56640493",
         "itemLabel": "Ancient theatre of Myra",
         "itemDescription": "ancient Roman theatre in Demre, Turkey",
         "image": "",
         "geo": "Point(29.98531 36.25895)",
-        "": "36.25895)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Demre%20Myra%2006.JPG",
         "picAlbum": "Ancient theatre of Myra",
         "article": ""
@@ -7125,12 +7165,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q59771457",
         "itemLabel": "Greek Theatre of Termessos",
         "itemDescription": "ancient Greek theatre (later converted to a Roman theatre) in Termessos in today's Turkey",
         "image": "",
         "geo": "Point(30.464538888 36.982466666)",
-        "": "36.982466666)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Theatre%20in%20Termessos.jpg",
         "picAlbum": "Ancient Greek theatre (Termessos)",
         "article": ""
@@ -7146,12 +7188,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q98654566",
         "itemLabel": "Roman theatre of Phaselis",
         "itemDescription": "ancient Roman theatre of Phaselis (Lycia, Turkey), built in the 2nd century on the foundations of an earlier Greek Hellenistic theatre",
         "image": "",
         "geo": "Point(30.55269 36.52362)",
-        "": "36.52362)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Phaselis%20theatre%2002.jpg",
         "picAlbum": "Ancient Greek theatre (Phaselis)",
         "article": ""
@@ -7167,12 +7211,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q16697381",
         "itemLabel": "Roman Theatre of Aspendos",
         "itemDescription": "ancient Roman theatre in Aspendos, Turkey",
         "image": "",
         "geo": "Point(31.172222 36.938889)",
-        "": "36.938889)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Aspendos%20teatro%20romano%20-%20panoramio.jpg",
         "picAlbum": "Ancient Roman theater in Aspendos",
         "article": ""
@@ -7188,12 +7234,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q19368273",
         "itemLabel": "Roman Theatre, Side",
         "itemDescription": "ancient Roman theatre in Side, Turkey",
         "image": "",
         "geo": "Point(31.3906 36.7679)",
-        "": "36.7679)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20theatre%20at%20Side%201.jpg",
         "picAlbum": "Roman theatre (Side)",
         "article": ""
@@ -7209,12 +7257,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28971095",
         "itemLabel": "Paphos amphitheatre",
         "itemDescription": "Roman amphitheatre in Paphos, Cyprus",
         "image": "",
         "geo": "Point(32.405 34.755)",
-        "": "34.755)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -7230,12 +7280,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q55068927",
         "itemLabel": "Odeon of Paphos",
         "itemDescription": "ancient Greek odeon at the Asklepieion of Paphos, Cyprus",
         "image": "",
         "geo": "Point(32.413611 34.760774)",
-        "": "34.760774)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Archaeological%20Park%20Paphos%20Cyprus%2013.jpg",
         "picAlbum": "Odeon (Paphos)",
         "article": ""
@@ -7251,12 +7303,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a77b00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q19610522",
         "itemLabel": "Roman theatre of Ankara",
         "itemDescription": "",
         "image": "",
         "geo": "Point(32.860222222 39.942055555)",
-        "": "39.942055555)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -7272,12 +7326,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q4453457",
         "itemLabel": "Roman Theatre of Kourion",
         "itemDescription": "ancient Roman theatre in Limassol, Cyprus",
         "image": "",
         "geo": "Point(32.887833 34.664284)",
-        "": "34.664284)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Episkopi%2001-2017%20img04%20Kourion.jpg",
         "picAlbum": "Ancient Roman theatre (Kourion)",
         "article": ""
@@ -7314,12 +7370,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q60334580",
         "itemLabel": "Roman Theatre of Salamis",
         "itemDescription": "ancient Roman theatre of Salamis, Cyprus",
         "image": "",
         "geo": "Point(33.902534 35.184769)",
-        "": "35.184769)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Roman%20theatre%2C%20built%20during%20the%20reign%20of%20Augustus%20and%20completed%20during%20the%20years%20of%20Trajan%20and%20Hadrian%2C%20it%20originally%20had%2050%20rows%20of%20seats%20%28just%2018%20remain%29%20and%20held%20over%2015%2C000%20spectators%2C%20Salamis%2C%20Northern%20Cyprus%20%2822335101200%29.jpg",
         "picAlbum": "Ancient Greek theatre (Salamys)",
         "article": ""
@@ -7335,12 +7393,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28971098",
         "itemLabel": "Salamis amphitheatre",
         "itemDescription": "Roman amphitheatre in Cyprus",
         "image": "",
         "geo": "Point(33.90260826 35.18479512)",
-        "": "35.18479512)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -7608,12 +7668,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002435",
         "itemLabel": "Anazarbus amphitheatre",
         "itemDescription": "Roman amphitheatre in Kozan district, Turkey",
         "image": "",
         "geo": "Point(35.895 37.244)",
-        "": "37.244)",
         "pic": "",
         "picAlbum": "",
         "article": ""
