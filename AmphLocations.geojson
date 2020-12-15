@@ -90,12 +90,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3896297",
         "itemLabel": "Roman Theatre of Saguntum",
         "itemDescription": "Ancient Roman theatre in Sagunto, Spain",
         "image": "",
         "geo": "Point(-0.277925 39.6768)",
-        "": "39.6768)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatre%20rom%C3%A0%20Sagunt.jpg",
         "picAlbum": "Teatre Romà de Sagunt",
         "article": "https://en.wikipedia.org/wiki/Sagunto_Roman_theatre"
@@ -321,12 +323,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#8d8600",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q651415",
         "itemLabel": "Carthago Nova amphitheatre",
         "itemDescription": "amphitheatre",
         "image": "",
         "geo": "Point(-0.98015 37.60062)",
-        "": "37.60062)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20cartagena.jpg",
         "picAlbum": "Ancient Roman amphitheatre of Cartagena, Spain",
         "article": ""
@@ -342,12 +346,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#8d8600",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q2627735",
         "itemLabel": "Roman theatre of Cartagena",
         "itemDescription": "cultural property in Cartagena, Spain",
         "image": "",
         "geo": "Point(-0.9841 37.5995)",
-        "": "37.5995)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatro%20Romano%20Cartagena%20vista%20panor%C3%A1mica.jpg",
         "picAlbum": "Ancient Roman theatre in Cartagena",
         "article": "https://en.wikipedia.org/wiki/Roman_theatre,_Cartagena"
@@ -512,12 +518,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q8199538",
         "itemLabel": "Segóbriga amphitheatre",
         "itemDescription": "cultural property in Almonacid del Marquesado y Saelices, Spain",
         "image": "",
         "geo": "Point(-2.81333333 39.88527778)",
-        "": "39.88527778)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Seg%C3%B3briga%2C%20anfiteatro%2C%20vista%20general.jpg",
         "picAlbum": "Roman amphitheatre of Segóbriga",
         "article": ""
@@ -533,12 +541,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q19368266",
         "itemLabel": "Roman theater of Segóbriga",
         "itemDescription": "ancient Roman theatre in Saelices, Spain",
         "image": "",
         "geo": "Point(-2.81389 39.8861)",
-        "": "39.8861)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Seg%C3%B3briga%2C%20teatro%2C%20vista%20general.jpg",
         "picAlbum": "Ancient Roman theatre in Segóbriga",
         "article": ""
@@ -598,12 +608,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q7777503",
         "itemLabel": "Theatre of Clunia Sulpicia",
         "itemDescription": "ancient Roman theatre in Coruña del Conde, Spain",
         "image": "",
         "geo": "Point(-3.365336111 41.783908333)",
-        "": "41.783908333)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatro%20de%20Clunia%2001.JPG",
         "picAlbum": "Ancient Roman theatre in Clunia",
         "article": "https://en.wikipedia.org/wiki/Theatre_of_Clunia_Sulpicia"
@@ -682,12 +694,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#5c0700",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29001116",
         "itemLabel": "Legio amphitheatre",
         "itemDescription": "Roman amphitheatre in León, Spain",
         "image": "",
         "geo": "Point(-5.567 42.597)",
-        "": "42.597)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -724,12 +738,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q56435741",
         "itemLabel": "Roman Theatre of Baelo Claudia",
         "itemDescription": "ancient Roman theatre in Tarifa, Spain",
         "image": "",
         "geo": "Point(-5.7756 36.09099)",
-        "": "36.09099)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Baelo%20Claudia%20Teatro%2012.JPG",
         "picAlbum": "Teatro romano de Baelo Claudia",
         "article": ""
@@ -745,12 +761,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q47518123",
         "itemLabel": "Roman Theatre of Metellinum",
         "itemDescription": "ancient Roman theatre in Medellín, Spain",
         "image": "",
         "geo": "Point(-5.956 38.966238888)",
-        "": "38.966238888)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatro%20romano%20y%20castillo%20de%20Medell%C3%ADn.jpg",
         "picAlbum": "Ancient Roman theater in Medellín",
         "article": ""
@@ -808,12 +826,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29001115",
         "itemLabel": "Cáparra amphitheatre",
         "itemDescription": "Roman amphitheatre in Oliva de Plasencia, Spain",
         "image": "",
         "geo": "Point(-6.1 40.164)",
-        "": "40.164)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -829,12 +849,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#8d8600",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q1526659",
         "itemLabel": "Roman Theatre of Cádiz",
         "itemDescription": "Roman theatre in Cádiz, Spain",
         "image": "",
         "geo": "Point(-6.293573118 36.528429425)",
-        "": "36.528429425)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatro%20Romano%20de%20C%C3%A1diz%20-%20Grader%C3%ADo.JPG",
         "picAlbum": "Teatro Romano de Cádiz",
         "article": "https://en.wikipedia.org/wiki/Roman_Theatre_(C%C3%A1diz)"
@@ -850,12 +872,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q1984155",
         "itemLabel": "Circus Maximus",
         "itemDescription": "Ancient Roman circus in Mérida, Spain",
         "image": "",
         "geo": "Point(-6.331698 38.919964)",
-        "": "38.919964)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/VR%20Merida%2003.JPG",
         "picAlbum": "Ancient Roman circus of Mérida",
         "article": "https://en.wikipedia.org/wiki/Roman_circus_of_M%C3%A9rida"
@@ -871,12 +895,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q2700544",
         "itemLabel": "Roman Theatre of Emerita Augusta",
         "itemDescription": "ancient Roman theatre in Merida, Spain",
         "image": "",
         "geo": "Point(-6.33333 38.91667)",
-        "": "38.91667)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Merida%20Roman%20Theatre1.jpg",
         "picAlbum": "Ancient Roman theatre in Mérida",
         "article": "https://en.wikipedia.org/wiki/Roman_Theatre_(M%C3%A9rida)"
@@ -892,12 +918,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q2360379",
         "itemLabel": "Roman amphitheatre of Mérida",
         "itemDescription": "Roman amphitheatre in Mérida, Spain",
         "image": "",
         "geo": "Point(-6.33772222 38.91619444)",
-        "": "38.91619444)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/VR%20Merida%2002.JPG",
         "picAlbum": "Amphitheatre (Mérida)",
         "article": "https://en.wikipedia.org/wiki/Amphitheatre_of_M%C3%A9rida"
@@ -913,12 +941,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#5c0700",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29001117",
         "itemLabel": "Lucus Augusti amphitheatre",
         "itemDescription": "Roman amphitheatre in Lugo, Spain",
         "image": "",
         "geo": "Point(-7.561 43.01)",
-        "": "43.01)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -934,12 +964,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#5c0700",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28974258",
         "itemLabel": "Balsa amphitheatre",
         "itemDescription": "Roman amphiteatre in Luz de Tavira e Santo Estêvão, Portugal",
         "image": "",
         "geo": "Point(-7.695 37.088)",
-        "": "37.088)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -955,12 +987,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a77b00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28974259",
         "itemLabel": "Bobadela amphitheatre",
         "itemDescription": "Roman amphiteatre in Boticas, Portugal",
         "image": "",
         "geo": "Point(-7.893 40.361)",
-        "": "40.361)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -976,12 +1010,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28974262",
         "itemLabel": "Conímbriga amphitheatre",
         "itemDescription": "Roman amphiteatre in Condeixa-a-Nova, Portugal",
         "image": "",
         "geo": "Point(-8.495 40.1)",
-        "": "40.1)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -997,12 +1033,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ad3e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q11780",
         "itemLabel": "Ancient Roman theatre (Lisbon)",
         "itemDescription": "Roman theater in Lisbon, Portugal",
         "image": "",
         "geo": "Point(-9.132408 38.710469)",
-        "": "38.710469)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/PedraRomanaSe.JPG",
         "picAlbum": "Ancient Roman theatre (Lisbon)",
         "article": ""
@@ -1213,12 +1251,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a77b00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q3079841",
         "itemLabel": "Roman theatre of Tarraco",
         "itemDescription": "",
         "image": "",
         "geo": "Point(1.2494 41.1128)",
-        "": "41.1128)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatre%20Rom%C3%A0%20de%20Tarragona-4.JPG",
         "picAlbum": "Roman theatre of Tarragona",
         "article": "https://en.wikipedia.org/wiki/Roman_theatre_of_Tarraco"
@@ -1255,12 +1295,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c3d117",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q2746482",
         "itemLabel": "Tarragona Amphitheatre",
         "itemDescription": "Roman amphitheatre in Tarragona, Spain",
         "image": "",
         "geo": "Point(1.2588 41.11457)",
-        "": "41.11457)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Amphitheatre%20of%20Tarragona%2002.jpg",
         "picAlbum": "Amphitheatre (Tarragona)",
         "article": "https://en.wikipedia.org/wiki/Tarragona_Amphitheatre"
@@ -5288,12 +5330,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#5c0700",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3616686",
         "itemLabel": "Barcelona Roman amphitheatre",
         "itemDescription": "Roman amphitheatre in the Ribera district of Barcelona, Spain",
         "image": "",
         "geo": "Point(2.18194444 41.38361111)",
-        "": "41.38361111)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Carrer%20caputxes%20bcn.JPG",
         "picAlbum": "",
         "article": "https://en.wikipedia.org/wiki/Barcelona_Roman_amphitheatre_and_circus"
