@@ -1390,12 +1390,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28969513",
         "itemLabel": "Tigava Castra amphitheatre",
         "itemDescription": "Roman amphitheatre in El Attaf, Algeria",
         "image": "",
         "geo": "Point(1.647 36.228)",
-        "": "36.228)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -1474,12 +1476,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#b51a00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002324",
         "itemLabel": "Utica first amphitheater",
         "itemDescription": "Roman amphiteatre in Bizerte Governorate, Tunisia",
         "image": "",
         "geo": "Point(10.057 37.052)",
-        "": "37.052)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -1495,12 +1499,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#b51a00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002325",
         "itemLabel": "Utica second amphitheater",
         "itemDescription": "Roman amphiteatre in Bizerte Governorate, Tunisia",
         "image": "",
         "geo": "Point(10.061 37.051)",
-        "": "37.051)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -1516,12 +1522,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q13429354",
         "itemLabel": "Amphitheatre of Oudna",
         "itemDescription": "ancient Roman amphitheatre in Tunisia",
         "image": "",
         "geo": "Point(10.169219 36.608603)",
-        "": "36.608603)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Oudhna%20Amphit%C3%A9atre.JPG",
         "picAlbum": "Amphitheatre of Oudna",
         "article": ""
@@ -1537,12 +1545,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q42600765",
         "itemLabel": "Theatre of Oudna",
         "itemDescription": "ancient Roman theatre of Oudna",
         "image": "",
         "geo": "Point(10.177304 36.608496)",
-        "": "36.608496)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Theatre%20Oudhna%201.jpg",
         "picAlbum": "Theatre of Oudna",
         "article": ""
@@ -1579,12 +1589,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q2844404",
         "itemLabel": "Carthage amphitheatre",
         "itemDescription": "Roman amphitheatre in Carthage",
         "image": "",
         "geo": "Point(10.315078 36.85612)",
-        "": "36.85612)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Carthage%20amphitheatre.jpg",
         "picAlbum": "Amphitheatre of Carthage",
         "article": "https://en.wikipedia.org/wiki/Carthage_amphitheatre"
@@ -1600,12 +1612,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q18008299",
         "itemLabel": "Theatre of Carthage",
         "itemDescription": "ancient Roman theatre of Carthage",
         "image": "",
         "geo": "Point(10.329436 36.857737)",
-        "": "36.857737)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20Theater%20of%20Carthage%20%28Tunisia%29.jpg",
         "picAlbum": "Theatre of Carthage",
         "article": ""
@@ -1621,12 +1635,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q20101358",
         "itemLabel": "Odeon of Carthage",
         "itemDescription": "Ancient odeon in Carthage, Tunisia",
         "image": "",
         "geo": "Point(10.33068 36.858941)",
-        "": "36.858941)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Odeon%20carthage.jpg",
         "picAlbum": "Odeon of Carthage",
         "article": ""
@@ -1642,12 +1658,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002299",
         "itemLabel": "Pheradi Maius amphitheatre",
         "itemDescription": "Roman amphiteatre in Bouficha, Tunisia",
         "image": "",
         "geo": "Point(10.397 36.25)",
-        "": "36.25)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -1663,12 +1681,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#e32400",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002323",
         "itemLabel": "Ulissipira amphitheatre",
         "itemDescription": "Roman amphiteatre in Sidi Bou Ali, Tunisia",
         "image": "",
         "geo": "Point(10.441 35.959)",
-        "": "35.959)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -2162,12 +2182,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q55992185",
         "itemLabel": "Roman theatre of Ferentium",
         "itemDescription": "ancient Roman theatre in Ferento, Viterbo, Italy",
         "image": "",
         "geo": "Point(12.13216 42.48852)",
-        "": "42.48852)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Ferentium%201071.jpg",
         "picAlbum": "Ancient Roman theatre (Ferentium)",
         "article": ""
@@ -3025,12 +3047,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d29d00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q2379643",
         "itemLabel": "Roman Amphitheatre of Amiternum",
         "itemDescription": "archaeological site",
         "image": "",
         "geo": "Point(13.306 42.400556)",
-        "": "42.400556)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Amiternum.jpg",
         "picAlbum": "Anfiteatro romano (Amiternum)",
         "article": ""
@@ -3046,12 +3070,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d29d00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3982363",
         "itemLabel": "Roman Theatre of Amiternum",
         "itemDescription": "archaeological site",
         "image": "",
         "geo": "Point(13.30991944 42.40386111)",
-        "": "42.40386111)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatro%20romano%20di%20Amiternum%20%28dettaglio%29.jpg",
         "picAlbum": "Teatro romano (Amiternum)",
         "article": ""
@@ -5255,12 +5281,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d58400",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q56194629",
         "itemLabel": "Roman Theatre of Caesarea",
         "itemDescription": "ancient Roman theatre in Cherchell, Algeria",
         "image": "",
         "geo": "Point(2.190277777 36.605)",
-        "": "36.605)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Th%C3%A9%C3%A2tre%20Cherchell.jpg",
         "picAlbum": "",
         "article": ""
@@ -5276,12 +5304,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d58400",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28969515",
         "itemLabel": "Cherchell amphitheatre",
         "itemDescription": "Roman amphitheatre in Cherchell, Algeria",
         "image": "",
         "geo": "Point(2.199 36.609)",
-        "": "36.609)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Th%C3%A9%C3%A2tre%20Cherchell.jpg",
         "picAlbum": "",
         "article": ""
@@ -5507,12 +5537,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q56163374",
         "itemLabel": "Greek Theatre of Buthrotum",
         "itemDescription": "ancient Greek theatre in Butrint, Albania",
         "image": "",
         "geo": "Point(20.020511111 39.745647222)",
-        "": "39.745647222)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatri%20ne%20Butrint%2C%20Shqiperi.jpg",
         "picAlbum": "Ancient Greek theatre (Butrint)",
         "article": ""
@@ -5528,12 +5560,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c3d117",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q74763498",
         "itemLabel": "Roman Odeon of Nicopolis",
         "itemDescription": "ancient Roman odeion of the city of Nicopolis in today's Preveza, Greece",
         "image": "",
         "geo": "Point(20.72915 39.01106)",
-        "": "39.01106)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Nikopolis%2C%20Roman%20Odeon%205.jpg",
         "picAlbum": "Roman Odeon (Nicopolis of Epirus)",
         "article": ""
@@ -5549,12 +5583,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c3d117",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q943637",
         "itemLabel": "Nicopolis",
         "itemDescription": "ancient Greek human settlement",
         "image": "",
         "geo": "Point(20.731759 39.01945)",
-        "": "39.01945)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicopolis%20nymphaeum.jpg",
         "picAlbum": "Nicopolis of Epirus",
         "article": "https://en.wikipedia.org/wiki/Nicopolis"
@@ -5570,12 +5606,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c3d117",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q38282064",
         "itemLabel": "Ancient Theater of Nicopolis",
         "itemDescription": "ancient (probably Roman) theatre in Preveza, Greece",
         "image": "",
         "geo": "Point(20.73736 39.023485)",
-        "": "39.023485)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/%CE%91%CF%81%CF%87%CE%B1%CE%AF%CE%B1%20%CE%9D%CE%B9%CE%BA%CF%8C%CF%80%CE%BF%CE%BB%CE%B7.%20%CE%98%CE%AD%CE%B1%CF%84%CF%81%CE%BF%20%CE%9F%CE%BA%CF%84%CE%B1%CE%B2%CE%B9%CE%B1%CE%BD%CE%BF%CF%8D.%20-%20panoramio.jpg",
         "picAlbum": "Theatre of Nicopolis",
         "article": ""
@@ -5591,12 +5629,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c3d117",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q5562136",
         "itemLabel": "Theatre of Dodona",
         "itemDescription": "ancient Greek theatre of Dodona in Dodoni, Greece",
         "image": "",
         "geo": "Point(20.787912 39.546406)",
-        "": "39.546406)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Dodona%2C%20Amphitheater%202015.JPG",
         "picAlbum": "Ancient Greek theatre (Dodona)",
         "article": ""
@@ -5721,12 +5761,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q38184758",
         "itemLabel": "Theatre of Messene",
         "itemDescription": "ancient theatre in Messene, Greece",
         "image": "",
         "geo": "Point(21.918751 37.177764)",
-        "": "37.177764)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Theater%20Messini.jpg",
         "picAlbum": "Ancient theatre of Messene",
         "article": ""
@@ -5763,12 +5805,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ff4013",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q24263012",
         "itemLabel": "Mieza Theatre",
         "itemDescription": "building in Naousa Municipality, Central Macedonia, Greece",
         "image": "",
         "geo": "Point(22.122222222 40.644166666)",
-        "": "40.644166666)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -5847,12 +5891,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d95000",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q5452301",
         "itemLabel": "First Ancient Theatre, Larissa",
         "itemDescription": "building in Larissa, Thessaly Region, Greece",
         "image": "",
         "geo": "Point(22.4153 39.6403)",
-        "": "39.6403)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20Theatre%20Larissa.jpg",
         "picAlbum": "First Ancient Theatre (Larissa)",
         "article": "https://en.wikipedia.org/wiki/First_Ancient_Theatre,_Larissa"
@@ -5868,12 +5914,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28599124",
         "itemLabel": "Theatre of Sparta",
         "itemDescription": "ancient roman theatre in Greece",
         "image": "",
         "geo": "Point(22.423547 37.082065)",
-        "": "37.082065)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20sparta%20theater.jpg",
         "picAlbum": "Ancient theatre of Sparta",
         "article": ""
@@ -5889,12 +5937,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28937968",
         "itemLabel": "Hellenistic theatre of Dion",
         "itemDescription": "building in Dio-Olympos Municipality, Central Macedonia, Greece",
         "image": "",
         "geo": "Point(22.491868 40.172315)",
-        "": "40.172315)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Hellenistic%20Theatre%2C%20Ancient%20Dion%20%286930195434%29.jpg",
         "picAlbum": "Hellenistic theatre of Dion",
         "article": "https://en.wikipedia.org/wiki/Hellenistic_theatre_of_Dion"
@@ -5910,12 +5960,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29935891",
         "itemLabel": "Odeon of Dion",
         "itemDescription": "ancient Greek odeon in Dion, Greece",
         "image": "",
         "geo": "Point(22.4921197 40.1762297)",
-        "": "40.1762297)",
         "pic": "",
         "picAlbum": "Odeon of Dion",
         "article": ""
@@ -5931,12 +5983,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28937966",
         "itemLabel": "Roman theatre of Dion",
         "itemDescription": "ancient Roman theatre in Dion, Greece",
         "image": "",
         "geo": "Point(22.495515 40.170741)",
-        "": "40.170741)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20horseshoe-saped%20orchestra%20of%20the%20Roman%20Theatre%2C%20from%20the%20time%20of%20Hadrian%2C%202nd%20c.%20AD%2C%20Ancient%20Dion%20%286930252452%29.jpg",
         "picAlbum": "Ancient Roman theatre of Dion",
         "article": ""
@@ -5952,12 +6006,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q10378966",
         "itemLabel": "Delphi Theater",
         "itemDescription": "Ancient Greek theatre in Delphi",
         "image": "",
         "geo": "Point(22.50055556 38.4825)",
-        "": "38.4825)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/07Delphi%20Theater03.jpg",
         "picAlbum": "Ancient Greek theatre of Delphi",
         "article": ""
@@ -5973,12 +6029,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#e32400",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28217908",
         "itemLabel": "Roman theatre of Gytheion",
         "itemDescription": "Ancient Roman theatre in the ancient city of Gytheion, Greece",
         "image": "",
         "geo": "Point(22.5627 36.76369)",
-        "": "36.76369)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Ancient%20theatre%20of%20gythio.jpg",
         "picAlbum": "Roman theatre of Gytheion",
         "article": ""
@@ -7442,12 +7500,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3537241",
         "itemLabel": "Theater of Herod",
         "itemDescription": "ancient Roman theatre in Caesarea Maritima, Israel",
         "image": "",
         "geo": "Point(34.89097 32.49605)",
-        "": "32.49605)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Caesarea%20maritima%20BW%204.JPG",
         "picAlbum": "Caesarea Theater",
         "article": ""
@@ -7463,12 +7523,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c3d117",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28974152",
         "itemLabel": "Eleutheropolis amphitheatre",
         "itemDescription": "Roman amphitheater in Beit Guvrin, Israel",
         "image": "",
         "geo": "Point(34.894 31.608)",
-        "": "31.608)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Beit%20Guvrin.JPG",
         "picAlbum": "Roman Amphitheatre at Beit Govrin",
         "article": ""
@@ -7484,12 +7546,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28974154",
         "itemLabel": "Caesarea amphitheatre",
         "itemDescription": "Roman amphitheater in Caesarea, Israel",
         "image": "",
         "geo": "Point(34.897 32.507)",
-        "": "32.507)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -7505,12 +7569,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#f5ec00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q56258896",
         "itemLabel": "Roman theatre of Sebastia",
         "itemDescription": "ancient Roman theatre in Sebastia, Palestine",
         "image": "",
         "geo": "Point(35.190833333 32.277222222)",
-        "": "32.277222222)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Sebastia-373.jpg",
         "picAlbum": "Ancient Roman theatre of Sebastia",
         "article": ""
@@ -7526,12 +7592,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q56258078",
         "itemLabel": "Roman theatre of Sepphoris",
         "itemDescription": "ancient Roman theatre in Tzippori, Israel",
         "image": "",
         "geo": "Point(35.279757 32.753465)",
-        "": "32.753465)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Theatre%20Zippori132.jpg",
         "picAlbum": "Ancient Roman theatre (Tzippori)",
         "article": ""
@@ -7547,12 +7615,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q55629697",
         "itemLabel": "Petra Theatre",
         "itemDescription": "Ancient theatre in Petra, Jordan",
         "image": "",
         "geo": "Point(35.447037 30.324972)",
-        "": "30.324972)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Theater%20at%20Petra%20%2835597953322%29.jpg",
         "picAlbum": "Theater of Petra",
         "article": "https://en.wikipedia.org/wiki/Petra_Theater"
@@ -7568,12 +7638,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28974153",
         "itemLabel": "Scythopolis amphitheatre",
         "itemDescription": "Roman amphitheater in Bet She'an, Israel",
         "image": "",
         "geo": "Point(35.501 32.499)",
-        "": "32.499)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Amphitheatre%20in%20Bet%20She%27an.jpg",
         "picAlbum": "Ancient Roman Amphitheatre in Beit She'an",
         "article": ""
@@ -7589,12 +7661,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q56257615",
         "itemLabel": "Roman theatre of Scythopolis",
         "itemDescription": "ancient Roman theatre in Beit She'an, Israel",
         "image": "",
         "geo": "Point(35.501589 32.501532)",
-        "": "32.501532)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/P1110934%20%286967152454%29.jpg",
         "picAlbum": "Ancient Roman Theatre in Beit She'an",
         "article": ""
@@ -7610,12 +7684,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d9eb37",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3966846",
         "itemLabel": "Roman Theater in Tiberias",
         "itemDescription": "archaeological site located in the southern part of Tiberias",
         "image": "",
         "geo": "Point(35.54416667 32.77361111)",
-        "": "32.77361111)",
         "pic": "",
         "picAlbum": "Ancient Roman Theatre in Tiberias",
         "article": ""
@@ -7631,12 +7707,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q56195497",
         "itemLabel": "Roman Theatre of Byblos",
         "itemDescription": "ancient Roman theatre in Byblos, Lebanon",
         "image": "",
         "geo": "Point(35.645 34.11929)",
-        "": "34.11929)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/ByblosRomanTheatre.jpg",
         "picAlbum": "Ancient Roman theatre (Byblos)",
         "article": ""
@@ -7652,12 +7730,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q56117303",
         "itemLabel": "Southern Theatre of Jerash",
         "itemDescription": "ancient Roman theatre in Jerash, Jordan",
         "image": "",
         "geo": "Point(35.88927 32.27667)",
-        "": "32.27667)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Jerash%20BW%2016.JPG",
         "picAlbum": "South Theater (Jerash)",
         "article": ""
@@ -7673,12 +7753,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q56117315",
         "itemLabel": "Northern Theatre of Jerash",
         "itemDescription": "ancient Roman theatre in Jerash, Jordan",
         "image": "",
         "geo": "Point(35.89226 32.28249)",
-        "": "32.28249)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/20100921%20gerasb12.JPG",
         "picAlbum": "North Theater (Jerash)",
         "article": ""
@@ -7717,12 +7799,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q2634316",
         "itemLabel": "Roman Theatre of Amman",
         "itemDescription": "ancient Roman theatre in Amman, Jordan",
         "image": "",
         "geo": "Point(35.939339 31.951698)",
-        "": "31.951698)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20theater%20of%20Amman%2001.jpg",
         "picAlbum": "Roman theater in Amman",
         "article": "https://en.wikipedia.org/wiki/Roman_Theater_(Amman)"
@@ -7738,12 +7822,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q20422619",
         "itemLabel": "Odeon of Amman",
         "itemDescription": "Ancient Roman odeon in Amman, Jordan",
         "image": "",
         "geo": "Point(35.93993 31.95235)",
-        "": "31.95235)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Amman-Odeon%28js%29.jpg",
         "picAlbum": "Amman Odeon",
         "article": "https://en.wikipedia.org/wiki/Odeon_theater_(Amman)"
@@ -7759,12 +7845,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q7362208",
         "itemLabel": "Roman Theatre at Apamea",
         "itemDescription": "",
         "image": "",
         "geo": "Point(36.398 35.418)",
-        "": "35.418)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/ApameaTeatro01.jpg",
         "picAlbum": "Apamea",
         "article": "https://en.wikipedia.org/wiki/Roman_Theatre_at_Apamea"
@@ -7780,12 +7868,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d29d00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29001886",
         "itemLabel": "Bosra amphitheatre",
         "itemDescription": "Roman amphitheatre in Bosra, Syria",
         "image": "",
         "geo": "Point(36.48 32.518)",
-        "": "32.518)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -7801,12 +7891,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d29d00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3056297",
         "itemLabel": "Roman Theatre at Bosra",
         "itemDescription": "ancient Roman theatre in Bosra, Syria",
         "image": "",
         "geo": "Point(36.48157 32.51773)",
-        "": "32.51773)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Syria%20bosra%20theater.jpg",
         "picAlbum": "Ancient Roman theatre (Bosra)",
         "article": "https://en.wikipedia.org/wiki/Roman_Theatre_at_Bosra"
@@ -7822,12 +7914,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ff6a00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q60254342",
         "itemLabel": "Roman Theatre of Kanatha",
         "itemDescription": "ancient Roman theatre in Qanawat, Syria",
         "image": "",
         "geo": "Point(36.61899 32.75616)",
-        "": "32.75616)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -7843,12 +7937,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q555201",
         "itemLabel": "Roman Theatre at Palmyra",
         "itemDescription": "Roman theatre in ancient Palmyra in the Syrian Desert",
         "image": "",
         "geo": "Point(38.2687 34.5505)",
-        "": "34.5505)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Palmyra%20theater02%28js%29.jpg",
         "picAlbum": "Ancient Roman theater (Palmyra)",
         "article": "https://en.wikipedia.org/wiki/Roman_Theatre_at_Palmyra"
@@ -8221,12 +8317,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29001887",
         "itemLabel": "Dura-Europos amphitheatre",
         "itemDescription": "former Roman amphitheatre in Abu Kamal District, Syria",
         "image": "",
         "geo": "Point(40.729 34.75)",
-        "": "34.75)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -8242,12 +8340,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#77bb41",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q2416155",
         "itemLabel": "Greek Theatre of Babylon",
         "itemDescription": "ancient Greek theatre in Babylon, Iraq, reconstructed in modern times",
         "image": "",
         "geo": "Point(44.42966667 32.54166667)",
-        "": "32.54166667)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -8347,12 +8447,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ad3e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28969517",
         "itemLabel": "Gemellae amphitheatre",
         "itemDescription": "Roman amphitheatre in Ourlala, Algeria",
         "image": "",
         "geo": "Point(5.523 34.635)",
-        "": "34.635)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -8368,12 +8470,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q19830974",
         "itemLabel": "Roman theatre of Cuicul",
         "itemDescription": "ancient Roman theatre in Djemila, Algeria",
         "image": "",
         "geo": "Point(5.737664 36.320766)",
-        "": "36.320766)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Theatre%20-%20Djemila%20%28Cuicul%29%20%D8%AC%D9%85%D9%8A%D9%84%D8%A9%20-%20%D8%B3%D8%B7%D9%8A%D9%81%20-%20panoramio.jpg",
         "picAlbum": "Ancient Roman theater in Djemila",
         "article": ""
@@ -8494,12 +8598,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28969516",
         "itemLabel": "Lambaesis amphitheatre",
         "itemDescription": "Roman amphitheatre in Tazoult, Algeria",
         "image": "",
         "geo": "Point(6.26 35.489)",
-        "": "35.489)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Int%C3%A9rieur%20de%20l%27ar%C3%A8ne%20romaine%20de%20Lambaesis%201.jpg",
         "picAlbum": "",
         "article": ""
@@ -8536,12 +8642,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q19717113",
         "itemLabel": "Roman Theatre of Timgad",
         "itemDescription": "Roman theatre in Timgad, Algeria",
         "image": "",
         "geo": "Point(6.468805 35.484148)",
-        "": "35.484148)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Timgad%20%D8%AA%D9%8A%D9%85%D9%82%D8%A7%D8%AF%20-%20panoramio%20-%20habib%20kaki%20%288%29.jpg",
         "picAlbum": "",
         "article": ""
@@ -8662,12 +8770,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q62061143",
         "itemLabel": "Roman theatre of Rusicade",
         "itemDescription": "ancient Roman theatre in Skikda, Algeria",
         "image": "",
         "geo": "Point(6.905222 36.879603)",
-        "": "36.879603)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Philippeville%20-%20Th%C3%A9%C3%A2tre%20-%20Mieusement%2002.jpg",
         "picAlbum": "Ancient Roman theater in Skikda",
         "article": ""
@@ -8830,12 +8940,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#f5ec00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q101116126",
         "itemLabel": "Roman theatre of Guelma",
         "itemDescription": "ancient Roman theatre in Guelma, Algeria",
         "image": "",
         "geo": "Point(7.43007 36.467207)",
-        "": "36.467207)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/%D8%B5%D9%88%D8%B1%D8%A9%20%D9%84%D9%84%D9%85%D8%B3%D8%B1%D8%AD%20%D8%A7%D9%84%D8%B1%D9%88%D9%85%D8%A7%D9%86%D9%8A%20%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9%20%D8%A8%D9%88%D8%B3%D8%B7%20%D9%88%D9%84%D8%A7%D9%8A%D8%A9%20%D9%82%D8%A7%D9%84%D9%85%D8%A9.jpg",
         "picAlbum": "Ancient Roman theater in Guelma",
         "article": ""
@@ -8893,12 +9005,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q2429753",
         "itemLabel": "Roman Theatre of Thubursicum Numidarum",
         "itemDescription": "ancient Roman theatre in Khamissa, Algeria",
         "image": "",
         "geo": "Point(7.655947 36.193686)",
-        "": "36.193686)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/GM%20Khamissa%20Roman%20Theatre01.jpg",
         "picAlbum": "Ancient Roman theater in Khamissa",
         "article": ""
@@ -8998,12 +9112,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#77bb41",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q62050969",
         "itemLabel": "Roman Theatre of Madauros",
         "itemDescription": "ancient Roman theatre in M'Daourouch / Madaure, Algeria",
         "image": "",
         "geo": "Point(7.901389 36.077913)",
-        "": "36.077913)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Odeon-madauros2.jpg",
         "picAlbum": "Ancient Roman theatre in Madaure",
         "article": ""
@@ -9040,12 +9156,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d58400",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28969519",
         "itemLabel": "Tébessa amphitheatre",
         "itemDescription": "Roman amphitheatre in Tébessa, Algeria",
         "image": "",
         "geo": "Point(8.124 35.401)",
-        "": "35.401)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -9187,12 +9305,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c3d117",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q42760097",
         "itemLabel": "Theatre of Ammaedara",
         "itemDescription": "ancient Roman theatre of Haidra",
         "image": "",
         "geo": "Point(8.4568622 35.5663679)",
-        "": "35.5663679)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -9208,12 +9328,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q42754548",
         "itemLabel": "Theatre of Chemtou",
         "itemDescription": "ancient Roman theatre of Chemtou",
         "image": "",
         "geo": "Point(8.571777 36.491465)",
-        "": "36.491465)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Chimtou%2C%20r%C3%B6misches%20Theater.jpg",
         "picAlbum": "Theatre of Chemtou",
         "article": ""
@@ -9229,12 +9351,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002300",
         "itemLabel": "Chemtou amphitheatre",
         "itemDescription": "Roman amphiteatre in Chemtou, Tunisia",
         "image": "",
         "geo": "Point(8.580462 36.490451)",
-        "": "36.490451)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Amphith%C3%A9%C3%A2tre%20de%20Chemtou%202.JPG",
         "picAlbum": "Amphitheatre of Chemtou",
         "article": ""
@@ -9250,12 +9374,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q42755003",
         "itemLabel": "Theatre of Bulla Regia",
         "itemDescription": "ancient Roman theatre of Bulla Regia",
         "image": "",
         "geo": "Point(8.757057 36.558872)",
-        "": "36.558872)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Th%C3%A9%C3%A2tre%20Bulla%20Regia.jpg",
         "picAlbum": "Theatre of Bulla Regia",
         "article": ""
@@ -9271,12 +9397,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002315",
         "itemLabel": "Bulla Regia amphitheatre",
         "itemDescription": "Roman amphiteatre in Jendouba Governorate, Tunisia",
         "image": "",
         "geo": "Point(8.758 36.56)",
-        "": "36.56)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -9292,12 +9420,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c3d117",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q42755885",
         "itemLabel": "Theatre of Althiburos",
         "itemDescription": "ancient Roman theatre of Althiburos",
         "image": "",
         "geo": "Point(8.786351 35.872652)",
-        "": "35.872652)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Dahmeni%20-%20Elkef%2018.jpg",
         "picAlbum": "Theatre of Althiburos",
         "article": ""
@@ -9334,12 +9464,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c3d117",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q18640104",
         "itemLabel": "amphitheatre of Libarna",
         "itemDescription": "building in Serravalle Scrivia, Italy",
         "image": "",
         "geo": "Point(8.868 44.706)",
-        "": "44.706)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Libarna%20%28Serravalle%20Scrivia%29-area%20archeologica%20e%20rinvenimenti%20citt%C3%A0%20romana3.jpg",
         "picAlbum": "",
         "article": "https://en.wikipedia.org/wiki/Amphitheatre_of_Libarna"
@@ -9376,12 +9508,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d58400",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q42755146",
         "itemLabel": "Theatre of Assuras",
         "itemDescription": "ancient Roman theatre of Zanfour",
         "image": "",
         "geo": "Point(9.020555555 35.994416666)",
-        "": "35.994416666)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -9397,12 +9531,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#b51a00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002320",
         "itemLabel": "Thibaris amphitheatre",
         "itemDescription": "Roman amphiteatre in Béja Governorate, Tunisia",
         "image": "",
         "geo": "Point(9.082 36.505)",
-        "": "36.505)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -9418,12 +9554,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d29d00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002322",
         "itemLabel": "Uchi Maius amphitheatre",
         "itemDescription": "Roman amphiteatre in Béja Governorate, Tunisia",
         "image": "",
         "geo": "Point(9.085 36.412)",
-        "": "36.412)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -9460,12 +9598,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#77bb41",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002306",
         "itemLabel": "Sufetula amphitheatre",
         "itemDescription": "Roman amphiteatre in Sbeitla, Tunisia",
         "image": "",
         "geo": "Point(9.115 35.244)",
-        "": "35.244)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20reste%20de%20l%27Amphith%C3%A9%C3%A2tre%201.jpg",
         "picAlbum": "Amphitheatre of Sbeitla",
         "article": ""
@@ -9481,12 +9621,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#77bb41",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q42760350",
         "itemLabel": "Theatre of Sufutela",
         "itemDescription": "ancient Roman theatre of Sbeitla",
         "image": "",
         "geo": "Point(9.12244 35.239608)",
-        "": "35.239608)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Sbeitla%20Theatre.jpg",
         "picAlbum": "Theatre of Sbeitla",
         "article": ""
@@ -9544,12 +9686,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#77bb41",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002317",
         "itemLabel": "Maktar amphitheatre",
         "itemDescription": "Roman amphiteatre in Maktar, Tunisia",
         "image": "",
         "geo": "Point(9.206389 35.855556)",
-        "": "35.855556)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Makthar%20amphith%C3%A9%C3%A2tre.jpg",
         "picAlbum": "Amphitheatre of Maktar",
         "article": ""
@@ -9565,12 +9709,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002310",
         "itemLabel": "Dougga amphitheatre",
         "itemDescription": "Roman amphiteatre in Dougga, Tunisia",
         "image": "",
         "geo": "Point(9.217 36.424)",
-        "": "36.424)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -9586,12 +9732,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q2291068",
         "itemLabel": "Theatre of Dougga",
         "itemDescription": "ancient Roman theatre of Dougga",
         "image": "",
         "geo": "Point(9.2203 36.42379)",
-        "": "36.42379)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20Theatre%20Dougga.jpg",
         "picAlbum": "Theatre of Dougga",
         "article": "https://en.wikipedia.org/wiki/Roman_theatre_of_Dougga"
@@ -9607,12 +9755,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a77b00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002312",
         "itemLabel": "Agbia amphitheatre",
         "itemDescription": "Roman amphiteatre in Siliana Governorate, Tunisia",
         "image": "",
         "geo": "Point(9.231 36.391)",
-        "": "36.391)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -9628,12 +9778,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d95000",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002298",
         "itemLabel": "Thimisua amphitheatre",
         "itemDescription": "Roman amphiteatre in Gaâfour, Tunisia",
         "image": "",
         "geo": "Point(9.319 36.311)",
-        "": "36.311)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -9649,12 +9801,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002297",
         "itemLabel": "Thignica amphitheatre",
         "itemDescription": "Roman amphiteatre in Testour, Tunisia",
         "image": "",
         "geo": "Point(9.362 36.528)",
-        "": "36.528)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -9670,12 +9824,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q42609741",
         "itemLabel": "Roman Theatre of Thignica",
         "itemDescription": "ancient Roman theatre in Ain Tounga, Tunisia, a listed monument of Tunisia",
         "image": "",
         "geo": "Point(9.362426 36.522862)",
-        "": "36.522862)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Aiintounga%2043.JPG",
         "picAlbum": "Theatre of Aïn Tounga",
         "article": ""
@@ -9691,12 +9847,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c3d117",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978103",
         "itemLabel": "Veleia amphitheatre",
         "itemDescription": "Roman amphitheatre in Lugagnano Val d'Arda, Italy",
         "image": "",
         "geo": "Point(9.723 44.785)",
-        "": "44.785)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -9712,12 +9870,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#b51a00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002305",
         "itemLabel": "Amphitheatre of Seressi",
         "itemDescription": "ancient Roman amphiteatre in Oum El Abouab, Tunisia",
         "image": "",
         "geo": "Point(9.776 36.164)",
-        "": "36.164)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -9733,12 +9893,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#b51a00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002307",
         "itemLabel": "Amphitheatre of Thuburbo Minus",
         "itemDescription": "Roman amphiteatre in Tebourba, Tunisia",
         "image": "",
         "geo": "Point(9.835436 36.827708)",
-        "": "36.827708)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/In%20This%20place%20was%20the%20Roman%20Amphitheater.JPG",
         "picAlbum": "Amphitheatre of Tebourba",
         "article": ""
@@ -9754,12 +9916,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#b51a00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002303",
         "itemLabel": "Jebel Moraba amphitheatre",
         "itemDescription": "Roman amphiteatre in Manouba Governorate, Tunisia",
         "image": "",
         "geo": "Point(9.861 36.598)",
-        "": "36.598)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -9775,12 +9939,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#e32400",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002302",
         "itemLabel": "Henchir-Boucha amphitheatre",
         "itemDescription": "Roman amphiteatre in Zaghouan, Tunisia",
         "image": "",
         "geo": "Point(9.889 36.528)",
-        "": "36.528)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -9796,12 +9962,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002309",
         "itemLabel": "Amphitheatre of Thuburbo Majus",
         "itemDescription": "ancient Roman amphitheatre in Tunisia",
         "image": "",
         "geo": "Point(9.906 36.398)",
-        "": "36.398)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Thuburbo%20Maius%20Amphitheatre.jpg",
         "picAlbum": "Amphitheatre of Thuburbo Majus"
       },
