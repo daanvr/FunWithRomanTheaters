@@ -1726,12 +1726,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002318",
         "itemLabel": "Thaenae amphitheatre",
         "itemDescription": "Roman amphiteatre in Sfax, Tunisia",
         "image": "",
         "geo": "Point(10.673 34.656)",
-        "": "34.656)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -1747,12 +1749,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q2914326",
         "itemLabel": "Roman amphitheatre of El Jem",
         "itemDescription": "Roman amphitheatre in El Jem, Tunisia",
         "image": "",
         "geo": "Point(10.70694444 35.29638889)",
-        "": "35.29638889)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Amphi%20El%20Jem.jpg",
         "picAlbum": "Amphitheatre of El Jem",
         "article": "https://en.wikipedia.org/wiki/Amphitheatre_of_El_Jem"
@@ -1768,12 +1772,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d95000",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q29002326",
         "itemLabel": "second Roman amphitheatre of El Jem",
         "itemDescription": "Roman amphiteatre in El Djem, Tunisia",
         "image": "",
         "geo": "Point(10.708 35.29)",
-        "": "35.29)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -1789,12 +1795,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d95000",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002314",
         "itemLabel": "Bararus amphitheatre",
         "itemDescription": "Roman amphiteatre in Sfax Governorate, Tunisia",
         "image": "",
         "geo": "Point(10.791 35.212)",
-        "": "35.212)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -1852,12 +1860,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d95000",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002316",
         "itemLabel": "Amphitheatre of Leptis Minor",
         "itemDescription": "ancient Roman amphitheatre in Tunisia",
         "image": "",
         "geo": "Point(10.867 35.678)",
-        "": "35.678)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Amphith%C3%A9%C3%A2tre%20de%20Leptis%20Minor%20Amphitheatre.JPG",
         "picAlbum": "Amphitheatre of Leptis Minor",
         "article": ""
@@ -1873,12 +1883,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#6f7608",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002301",
         "itemLabel": "Meninx amphitheatre",
         "itemDescription": "Roman amphiteatre in Djerba, Tunisia",
         "image": "",
         "geo": "Point(10.914 33.686)",
-        "": "33.686)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -1936,12 +1948,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a77b00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002311",
         "itemLabel": "Acholla amphitheatre",
         "itemDescription": "Roman amphiteatre in El Alia, Tunisia",
         "image": "",
         "geo": "Point(11.019 35.076)",
-        "": "35.076)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -1957,12 +1971,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d58400",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q29002319",
         "itemLabel": "Thapsus amphitheatre",
         "itemDescription": "Roman amphiteatre in Monastir Governorate, Tunisia",
         "image": "",
         "geo": "Point(11.042 35.619)",
-        "": "35.619)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -2398,12 +2414,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28974187",
         "itemLabel": "Roman theatre of Sabratha",
         "itemDescription": "Roman theatre in Sabratha, Libya",
         "image": "",
         "geo": "Point(12.485179 32.805374)",
-        "": "32.805374)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Theatre%20of%20Sabratha%2C%20Libya.jpg",
         "picAlbum": "Ancient Roman theatre (Sabratha)",
         "article": ""
@@ -3889,12 +3907,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#77bb41",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q55984349",
         "itemLabel": "Leptis Magna: Roman theatre",
         "itemDescription": "Roman theatre in Leptis Magna, Libya",
         "image": "",
         "geo": "Point(14.290515 32.63834)",
-        "": "32.63834)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Archaeological%20Site%20of%20Leptis%20Magna%20%28Libyan%20Arab%20Jamahiriya%29.jpg",
         "picAlbum": "Ancient Roman theatre (Leptis Magna)",
         "article": ""
@@ -3910,12 +3930,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#77bb41",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q2844413",
         "itemLabel": "Roman amphitheatre of Leptis Magna",
         "itemDescription": "Roman amphitheatre in Leptis Magna, Libya",
         "image": "",
         "geo": "Point(14.309458 32.632324)",
-        "": "32.632324)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Circus%20Leptis%20Magna%20Libya.JPG",
         "picAlbum": "Amphitheatre (Leptis Magna)",
         "article": ""
@@ -5611,12 +5633,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28974185",
         "itemLabel": "Ptolemais amphitheatre",
         "itemDescription": "Roman amphitheatre in Tolmeita, Libya",
         "image": "",
         "geo": "Point(20.946 32.708)",
-        "": "32.708)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -5674,12 +5698,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28974184",
         "itemLabel": "Cyrene amphitheatre",
         "itemDescription": "Roman amphitheatre in Shahhat, Libya",
         "image": "",
         "geo": "Point(21.851 32.825)",
-        "": "32.825)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Cyrene3.jpg",
         "picAlbum": "Amphitheatre (Cyrene)",
         "article": ""
@@ -9789,7 +9815,11 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
