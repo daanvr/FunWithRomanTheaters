@@ -4,12 +4,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#f5ec00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3527840",
         "itemLabel": "Gallo-Roman theatre at Les Bouchauds",
         "itemDescription": "",
         "image": "",
         "geo": "Point(-0.0062 45.7817)",
-        "": "45.7817)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Saint-Cybardeaux%20Th%C3%A9%C3%A2tre%20des%20Bouchauds%202014.jpg",
         "picAlbum": "Gallo-Roman theatre at Les Bouchauds",
         "article": ""
@@ -361,12 +363,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#f5ec00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q24660983",
         "itemLabel": "Silchester Amphitheatre",
         "itemDescription": "Roman amphitheatre in Silchester",
         "image": "",
         "geo": "Point(-1.07528 51.35885)",
-        "": "51.35885)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Entrance%20to%20the%20Amphitheatre%20at%20Calleva%20Silchester%20-%20geograph.org.uk%20-%2079935.jpg",
         "picAlbum": "Roman amphitheatre, Silchester",
         "article": ""
@@ -550,12 +554,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a77b00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q2844408",
         "itemLabel": "Chester Roman Amphitheatre",
         "itemDescription": "Roman amphitheatre in Chester, Cheshire, United Kingdom",
         "image": "",
         "geo": "Point(-2.887 53.1892)",
-        "": "53.1892)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Chester%20amphitheatre.jpg",
         "picAlbum": "Roman amphitheatre, Chester",
         "article": "https://en.wikipedia.org/wiki/Chester_Roman_Amphitheatre"
@@ -1054,12 +1060,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d58400",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q15953348",
         "itemLabel": "Lillebonne Gallo-Roman theater",
         "itemDescription": "",
         "image": "",
         "geo": "Point(0.536753 49.5177)",
-        "": "49.5177)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/TheatreLillebonne.jpg",
         "picAlbum": "Théâtre antique de Lillebonne",
         "article": ""
@@ -1117,12 +1125,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d95000",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q15945086",
         "itemLabel": "Périgueux amphitheatre",
         "itemDescription": "",
         "image": "",
         "geo": "Point(0.713333 45.1828)",
-        "": "45.1828)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/P%C3%A9rigueux%20amphith%C3%A9%C3%A2tre%20ruines%20%281%29.JPG",
         "picAlbum": "Amphithéâtre de Périgueux",
         "article": ""
@@ -1180,12 +1190,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#b51a00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q2844417",
         "itemLabel": "Rotomagus amphitheatre",
         "itemDescription": "former Roman amphitheatre or theatre in Rouen, France",
         "image": "",
         "geo": "Point(1.094444 49.446667)",
-        "": "49.446667)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -1306,12 +1318,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d95000",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q22950220",
         "itemLabel": "Ancient Roman sites in Les Andelys",
         "itemDescription": "",
         "image": "",
         "geo": "Point(1.4091 49.2569)",
-        "": "49.2569)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Andelys%20cateliers%201258.jpg",
         "picAlbum": "Ancient Roman sites in Les Andelys",
         "article": ""
@@ -5717,12 +5731,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c3d117",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q70772454",
         "itemLabel": "Theatre of Heraclea Lyncestis",
         "itemDescription": "Roman theatre of Heraclea Lynkestis in Bitola, North Macedonia",
         "image": "",
         "geo": "Point(21.34222 41.011475)",
-        "": "41.011475)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/2011%20Bitola%2C%20Heraclea%20Lyncestis%20%2830%29.jpg",
         "picAlbum": "Roman theater at Heraclea Lyncestis",
         "article": ""
@@ -5784,12 +5800,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q56180740",
         "itemLabel": "Roman theatre of Stobi",
         "itemDescription": "ancient Roman theatre in Gradsko, Macedonia",
         "image": "",
         "geo": "Point(21.973837 41.5516704)",
-        "": "41.5516704)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Roman%20city%20ruins%20Stobi%20Macedonia%20AT.jpg",
         "picAlbum": "",
         "article": ""
@@ -8086,12 +8104,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q179656",
         "itemLabel": "Arena of Nîmes",
         "itemDescription": "amphitheatre",
         "image": "",
         "geo": "Point(4.36 43.835)",
-        "": "43.835)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/N%C3%AEmes-Ar%C3%A8nes-20130923.jpg",
         "picAlbum": "Arènes de Nîmes",
         "article": "https://en.wikipedia.org/wiki/Arena_of_N%C3%AEmes"
@@ -8107,12 +8127,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3527839",
         "itemLabel": "Gallo-Roman Theatre of Alba Augusta Helviorum",
         "itemDescription": "ancient Gallo-Roman theatre in Alba-la-Romaine, France",
         "image": "",
         "geo": "Point(4.60189 44.55985)",
-        "": "44.55985)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/CaveaAlba-la-romaine.jpg",
         "picAlbum": "Théâtre gallo-romain d'Alba-la-Romaine",
         "article": ""
@@ -8128,12 +8150,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q972128",
         "itemLabel": "Gallo-Roman theatre at Arles",
         "itemDescription": "Gallo-Roman theatre in Arles, France",
         "image": "",
         "geo": "Point(4.629722222 43.676388888)",
-        "": "43.676388888)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Arles%20Amphitheatre%20gallo%20romain%20pano.jpg",
         "picAlbum": "Théâtre gallo-romain d'Arles",
         "article": "https://en.wikipedia.org/wiki/Roman_Theatre_of_Arles"
@@ -8149,12 +8173,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q181189",
         "itemLabel": "Arles Amphitheatre",
         "itemDescription": "Roman amphitheatre in Arles, France",
         "image": "",
         "geo": "Point(4.631111111 43.677777777)",
-        "": "43.677777777)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Les%20Ar%C3%A8nes%20d%27Arles.jpg",
         "picAlbum": "Arènes d'Arles",
         "article": "https://en.wikipedia.org/wiki/Arles_Amphitheatre"
@@ -8170,12 +8196,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28971468",
         "itemLabel": "Orange amphitheatre",
         "itemDescription": "Roman amphitheatre in Orange, France",
         "image": "",
         "geo": "Point(4.801 44.136)",
-        "": "44.136)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -8191,12 +8219,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q958961",
         "itemLabel": "Théâtre antique d'Orange",
         "itemDescription": "ancient Roman theatre in Orange, France",
         "image": "",
         "geo": "Point(4.808895 44.135754)",
-        "": "44.135754)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Le%20Th%C3%A9%C3%A2tre%20Antique%20d%27Orange%2C%202007.jpg",
         "picAlbum": "Roman Theatre of Orange",
         "article": "https://en.wikipedia.org/wiki/Roman_Theatre_of_Orange"
@@ -8363,12 +8393,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q22986587",
         "itemLabel": "Roman Theatre of Vasio Vocontiorum",
         "itemDescription": "Ancient Roman theatre in Vaison-la-Romaine, France",
         "image": "",
         "geo": "Point(5.07318 44.24376)",
-        "": "44.24376)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20th%C3%A9atre.jpg",
         "picAlbum": "Roman theatre of Vaison-la-Romaine",
         "article": ""
