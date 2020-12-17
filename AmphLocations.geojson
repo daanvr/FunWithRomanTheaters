@@ -8640,12 +8640,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q2844405",
         "itemLabel": "Gallo-Roman theatre of Grand",
         "itemDescription": "Gallo-Roman theatre/amphitheatre in Grand, France",
         "image": "",
         "geo": "Point(5.49111111 48.385)",
-        "": "48.385)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20amphitheatre%20vgen.jpg",
         "picAlbum": "Amphitheatre in Grand",
         "article": ""
@@ -8707,12 +8709,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q23304746",
         "itemLabel": "Q23304746",
         "itemDescription": "",
         "image": "",
         "geo": "Point(6.01493 47.239888)",
-        "": "47.239888)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -8728,12 +8732,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#5c0700",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q2866135",
         "itemLabel": "Besançon amphitheatre",
         "itemDescription": "",
         "image": "",
         "geo": "Point(6.01597222 47.23916667)",
-        "": "47.23916667)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Vestiges%20Ar%C3%A8nes%20Besan%C3%A7on.jpg",
         "picAlbum": "Arènes de Besançon",
         "article": ""
@@ -8749,12 +8755,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#5c0700",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q1814026",
         "itemLabel": "Nijmegen amphitheatre",
         "itemDescription": "",
         "image": "",
         "geo": "Point(6.046 51.861)",
-        "": "51.861)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Batavorum.JPG",
         "picAlbum": "",
         "article": ""
@@ -8770,12 +8778,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#5c0700",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q2844415",
         "itemLabel": "Roman amphitheatre of Metz",
         "itemDescription": "Roman amphitheatre in Metz, France",
         "image": "",
         "geo": "Point(6.180292 49.108941)",
-        "": "49.108941)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Maquette%20GalloRomainMetz.jpg",
         "picAlbum": "",
         "article": ""
@@ -8835,12 +8845,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q2549489",
         "itemLabel": "Amphitheatre of Xanten",
         "itemDescription": "reconstructed ancient Roman amphitheatre of Colonia Ulpia Traiana in today's Xanten, Germany",
         "image": "",
         "geo": "Point(6.45141 51.66713)",
-        "": "51.66713)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Stadium%20%283%29%20%28archaeological%20park%20Xanten%2C%20Germany%2C%202005-04-23%29.jpg",
         "picAlbum": "Reconstructed Roman amphitheatre (APX)",
         "article": ""
@@ -8879,12 +8891,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a77b00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q2234744",
         "itemLabel": "Birten amphitheatre",
         "itemDescription": "ancient Roman amphitheatre in Birten, Xanten, Germany, used as a modern open-air theatre",
         "image": "",
         "geo": "Point(6.47305 51.63755)",
-        "": "51.63755)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -8900,12 +8914,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a77b00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q474982",
         "itemLabel": "Roman amphitheatre of Trier",
         "itemDescription": "roman amphitheatre in Trier, Germany",
         "image": "",
         "geo": "Point(6.64889 49.7481)",
-        "": "49.7481)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Trier%20Amphitheater%202.JPG",
         "picAlbum": "Amphitheatre, Trier",
         "article": "https://en.wikipedia.org/wiki/Trier_Amphitheater"
@@ -8963,12 +8979,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q1851628",
         "itemLabel": "Gallo-Roman Theatre of Mandeure",
         "itemDescription": "ancient Gallo-Roman theatre in Mandeure, France",
         "image": "",
         "geo": "Point(6.796224 47.449016)",
-        "": "47.449016)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/2020-08%20-%20Th%C3%A9%C3%A2tre%20antique%20de%20Mandeure%20-%2004.jpg",
         "picAlbum": "Théâtre romain de Mandeure",
         "article": ""
@@ -9007,12 +9025,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#8d8600",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q2844395",
         "itemLabel": "Avenches amphitheatre",
         "itemDescription": "Roman amphitheatre in Avenches, Switzerland",
         "image": "",
         "geo": "Point(7.04269 46.88102)",
-        "": "46.88102)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Avenches%20Aventicum%202004-12-30.jpg",
         "picAlbum": "",
         "article": ""
@@ -9049,12 +9069,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#8d8600",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q56117519",
         "itemLabel": "Roman Theatre of Aventicum",
         "itemDescription": "ancient Roman theatre in Avenches, Switzerland",
         "image": "",
         "geo": "Point(7.0488 46.880286111)",
-        "": "46.880286111)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Theater-avenches.jpg",
         "picAlbum": "Théâtre d'Aventicum",
         "article": ""
@@ -9177,12 +9199,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7c2a00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q29001163",
         "itemLabel": "Bern amphitheatre",
         "itemDescription": "Roman amphitheatre in Bern, Switzerland",
         "image": "",
         "geo": "Point(7.451 46.976)",
-        "": "46.976)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Bern%20Amphitheatre.jpg",
         "picAlbum": "",
         "article": ""
@@ -9263,12 +9287,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#785700",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q3527590",
         "itemLabel": "Roman Theatre of Augusta Raurica",
         "itemDescription": "ancient Roman theatre in Augst, Switzerland",
         "image": "",
         "geo": "Point(7.72207 47.5332)",
-        "": "47.5332)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Augustaraurica%20theater1.jpg",
         "picAlbum": "Ancient Roman theatre (Augusta Raurica)",
         "article": ""
@@ -9393,12 +9419,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a96800",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q56117546",
         "itemLabel": "Roman theatre of Vicus Lindfeld",
         "itemDescription": "ancient Roman theatre near Lenzburg, Switzerland",
         "image": "",
         "geo": "Point(8.19068 47.39481)",
-        "": "47.39481)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/20110621%20Heliflug%2045.JPG",
         "picAlbum": "Roman theatre near Lenzburg",
         "article": ""
@@ -9414,12 +9442,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#b51a00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28973032",
         "itemLabel": "Zugmantel Castrum northern amphitheatre",
         "itemDescription": "former Roman amphitheatre in Taunusstein, Germany",
         "image": "",
         "geo": "Point(8.202 50.193)",
-        "": "50.193)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -9435,12 +9465,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#b51a00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28973033",
         "itemLabel": "Zugmantel Castrum eastern amphitheatre",
         "itemDescription": "former Roman amphitheatre in Taunusstein, Germany",
         "image": "",
         "geo": "Point(8.211 50.19)",
-        "": "50.19)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -9477,12 +9509,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ad3e00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q475005",
         "itemLabel": "Amphitheater of Vindonissa",
         "itemDescription": "Roman amphitheatre in Windisch, Switzerland, used for opera performances and various events in modern times",
         "image": "",
         "geo": "Point(8.2136 47.4763)",
-        "": "47.4763)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Vindonissa%20-%20Amphitheater%20IMG%206929.JPG",
         "picAlbum": "Amphitheatre (Vindonissa)",
         "article": ""
@@ -9498,12 +9532,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ad3e00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q454527",
         "itemLabel": "Roman theater at Mainz",
         "itemDescription": "Roman theater",
         "image": "",
         "geo": "Point(8.277777777 49.993055555)",
-        "": "49.993055555)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Roemisches-Theater-Mainz.jpg",
         "picAlbum": "Roman theater in Mainz",
         "article": "https://en.wikipedia.org/wiki/Roman_Theatre_(Mainz)"
@@ -9657,12 +9693,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28971507",
         "itemLabel": "Arnsburg amphitheatre",
         "itemDescription": "Roman amphitheatre in Lich, Germany",
         "image": "",
         "geo": "Point(8.788 50.485)",
-        "": "50.485)",
         "pic": "",
         "picAlbum": "",
         "article": ""
