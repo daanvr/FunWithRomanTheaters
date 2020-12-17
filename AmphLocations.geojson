@@ -4927,12 +4927,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978036",
         "itemLabel": "Grumentum amphitheatre",
         "itemDescription": "Roman amphitheatre in Grumento Nova, Italy",
         "image": "",
         "geo": "Point(15.912 40.287)",
-        "": "40.287)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -4992,12 +4994,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#8d8600",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3982367",
         "itemLabel": "Roman Theatre of Locri",
         "itemDescription": "building in Locri, Italy",
         "image": "",
         "geo": "Point(16.22863611 38.21618056)",
-        "": "38.21618056)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -5013,12 +5017,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7c2a00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q3982350",
         "itemLabel": "Greco-Roman theatre of Marina di Gioiosa Ionica",
         "itemDescription": "building in Marina di Gioiosa Ionica, Italy",
         "image": "",
         "geo": "Point(16.3328588 38.3014307)",
-        "": "38.3014307)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/MarinaGioiosaIonicaRomanThermae.JPG",
         "picAlbum": "",
         "article": ""
@@ -5057,12 +5063,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#38571a",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q56476980",
         "itemLabel": "Roman Theatre of Sybaris",
         "itemDescription": "ancient Roman theatre in Sibari,  Cassano allo Ionio, Italy",
         "image": "",
         "geo": "Point(16.4908548 39.715813)",
-        "": "39.715813)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Sibari-scavi-teatro.jpg",
         "picAlbum": "",
         "article": ""
@@ -5078,12 +5086,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#785700",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978002",
         "itemLabel": "Scolacium amphitheatre",
         "itemDescription": "Roman amphitheatre in Borgia, Italy",
         "image": "",
         "geo": "Point(16.583 38.82)",
-        "": "38.82)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -5122,12 +5132,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#8d8600",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q55974724",
         "itemLabel": "Roman Theatre of Scolacium",
         "itemDescription": "ancient Roman theatre in Borgia, Calabria, Italy",
         "image": "",
         "geo": "Point(16.5947 38.80686)",
-        "": "38.80686)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Scolacium%20Th%C3%A9%C3%A2tre2.JPG",
         "picAlbum": "",
         "article": ""
