@@ -4571,12 +4571,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978009",
         "itemLabel": "Amphitheatre of Paestum",
         "itemDescription": "Roman amphitheatre in Capaccio Paestum, Italy",
         "image": "",
         "geo": "Point(15.00624 40.42233)",
-        "": "40.42233)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Paestum%20BW%202013-05-17%2013-16-32.jpg",
         "picAlbum": "Amphitheatre (Paestum)",
         "article": ""
@@ -4797,12 +4799,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#8d8600",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q2844414",
         "itemLabel": "Roman amphitheatre of Lucera",
         "itemDescription": "Roman amphitheatre in Lucera, Italy",
         "image": "",
         "geo": "Point(15.344853 41.508256)",
-        "": "41.508256)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Amphitheatre%20of%20Lucera4.jpg",
         "picAlbum": "Amphitheatre (Lucera)",
         "article": ""
@@ -4841,12 +4845,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978052",
         "itemLabel": "Herdoniae amphitheatre",
         "itemDescription": "Roman amphitheatre in Ordona, Italy",
         "image": "",
         "geo": "Point(15.623 41.311)",
-        "": "41.311)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -4885,12 +4891,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978106",
         "itemLabel": "Venusia amphitheatre",
         "itemDescription": "Roman amphitheatre in Venosa, Italy",
         "image": "",
         "geo": "Point(15.8243636 40.9679567)",
-        "": "40.9679567)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20di%20epoca%20romana%20%28Venosa%29.jpg",
         "picAlbum": "",
         "article": ""
@@ -4906,12 +4914,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a77b00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978076",
         "itemLabel": "Siponto amphitheatre",
         "itemDescription": "Roman amphitheatre in Siponto, Italy",
         "image": "",
         "geo": "Point(15.889 41.612)",
-        "": "41.612)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -4973,12 +4983,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978008",
         "itemLabel": "Canusium amphitheatre",
         "itemDescription": "Roman amphitheatre in Canosa di Puglia, Italy",
         "image": "",
         "geo": "Point(16.056 41.222)",
-        "": "41.222)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -5201,12 +5213,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ad3e00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28978085",
         "itemLabel": "Tarent amphitheatre",
         "itemDescription": "Roman amphitheatre in Taranto, Italy",
         "image": "",
         "geo": "Point(17.241 40.471)",
-        "": "40.471)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -5222,12 +5236,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#38571a",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28977983",
         "itemLabel": "Egnatia amphitheatre",
         "itemDescription": "Roman amphitheatre in Fasano, Italy",
         "image": "",
         "geo": "Point(17.391 40.888)",
-        "": "40.888)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -5243,12 +5259,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a96800",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978040",
         "itemLabel": "Rudiae amphitheatre",
         "itemDescription": "Roman amphitheatre in Lecce, Italy",
         "image": "",
         "geo": "Point(18.147 40.334)",
-        "": "40.334)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -5264,12 +5282,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7a4a00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q3982369",
         "itemLabel": "Roman Theatre of Lecce",
         "itemDescription": "ancient Roman theatre in Lecce, Italy",
         "image": "",
         "geo": "Point(18.1705391 40.3513908)",
-        "": "40.3513908)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatro%20Romano%20Lecce.jpg",
         "picAlbum": "Ancient Roman theatre (Lecce)",
         "article": ""
@@ -5285,12 +5305,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#8d8600",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q2844410",
         "itemLabel": "Roman amphitheatre of Lecce",
         "itemDescription": "Roman amphitheatre in Lecce, Italy",
         "image": "",
         "geo": "Point(18.172571 40.353294)",
-        "": "40.353294)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Lecce-Amphitheater01.jpg",
         "picAlbum": "Amphitheatre (Lecce)",
         "article": ""
