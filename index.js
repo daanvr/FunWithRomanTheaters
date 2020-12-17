@@ -9757,9 +9757,8 @@ map.addControl(
 );
 
 map.addControl(new mapboxgl.FullscreenControl());
-
-// Add zoom and rotation controls to the map.
-map.addControl(new mapboxgl.NavigationControl());
+map.doubleClickZoom.disable();
+map.addControl(new mapboxgl.NavigationControl());// Add zoom and rotation controls to the map.
 
 $(document).ready(function () {
     getImagesFromWikiCommons();
@@ -9879,8 +9878,8 @@ function addLineOfSightToGeojson(lon1, lat1, lon2, lat2, url) {
 map.on("load", function () {
     map.addSource("AmphGeojson", {
         type: "geojson",
-        data: geojsonAmphLocations
-    });    map.addSource("cameras", {
+        data: "https://raw.githubusercontent.com/daanvr/FunWithRomanTheaters/main/AmphLocations.geojson"
+    }); map.addSource("cameras", {
         type: "geojson",
         data: geojsonCamera
     });
@@ -9919,13 +9918,31 @@ map.on("load", function () {
         source: "AmphGeojson",
         layout: {},
         paint: {
-            "circle-color": "hsla(177, 100%, 100%, 0.10)",
+            "circle-color": ["get", "marker-color"],
             "circle-stroke-width": 1,
             "circle-stroke-color": "#ffffff",
             "circle-radius": ["interpolate", ["linear"], ["zoom"], 6, 5, 14, 10]
         }
     });
 
+    map.on("dblclick", "AmphStyle", function (e) {
+
+        console.log("DBclick");
+        console.log(e.features[0].geometry.coordinates);
+        map.flyTo({
+            center: e.features[0].geometry.coordinates,
+            // maxDuration: 1000,
+            zoom: 16,
+            speed: 1
+        });
+    });
+
+    map.on("mousemove", "AmphStyle", function (e) {
+        map.getCanvas().style.cursor = 'pointer';
+    });
+    map.on("mouseleave", "AmphStyle", function (e) {
+        map.getCanvas().style.cursor = 'pointer';
+    });
     map.on("mousemove", "camerasLayer", function (e) {
         if (e.features.length > 0) {
             url = e.features[0].properties.url;
@@ -9961,20 +9978,19 @@ map.on("load", function () {
             displayImage(url);
         }
     });
+
     map.on("dragend", function () {
         getImagesFromWikiCommons();
     });
-    map.addSource("mapbox-dem", {
+
+    map.addSource("mapbox-dem", { // Terreain level source
         type: "raster-dem",
         url: "mapbox://mapbox.mapbox-terrain-dem-v1",
         tileSize: 512,
         maxzoom: 14
     });
-    // add the DEM source as a terrain layer with exaggerated height
-    map.setTerrain({ source: "mapbox-dem", exaggeration: 1.5 });
-
-    // add a sky layer that will show when the map is highly pitched
-    map.addLayer({
+    map.setTerrain({ source: "mapbox-dem", exaggeration: 1.5 }); // add the DEM source as a terrain layer with exaggerated height
+    map.addLayer({ // add a sky layer that will show when the map is highly pitched
         id: "sky",
         type: "sky",
         paint: {
