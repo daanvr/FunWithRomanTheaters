@@ -2966,12 +2966,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3982332",
         "itemLabel": "Greek Theatre of Segesta",
         "itemDescription": "ancient Greek theatre in Segesta, Italy",
         "image": "",
         "geo": "Point(12.8438748 37.9411255)",
-        "": "37.9411255)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Segesta%20AncientGreekTheatre%200987.jpg",
         "picAlbum": "Ancient Greek theatre (Segesta)",
         "article": ""
@@ -3052,12 +3054,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q16612562",
         "itemLabel": "Greek Theatre of Monte Jato",
         "itemDescription": "ancient Greek theatre in the province of Palermo, Italy",
         "image": "",
         "geo": "Point(13.1978946 37.9675638)",
-        "": "37.9675638)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Monte%20Iato%20Theater.JPG",
         "picAlbum": "Ancient Greek theatre (Monte Iato)",
         "article": ""
@@ -3094,12 +3098,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3982322",
         "itemLabel": "Theatre of Herakleia Minoa",
         "itemDescription": "ancient Greek theatre in Cattolica Eraclea, Sicily, Italy",
         "image": "",
         "geo": "Point(13.2806334 37.3942451)",
-        "": "37.3942451)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Eraclea-Minoa-Theatre-flickr.jpg",
         "picAlbum": "",
         "article": ""
@@ -3287,12 +3293,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#f5ec00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3982325",
         "itemLabel": "theatre of Hippana",
         "itemDescription": "building in Prizzi, Italy",
         "image": "",
         "geo": "Point(13.432589 37.701615)",
-        "": "37.701615)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Hippana-Teatro.jpg",
         "picAlbum": "Ancient Greek theatre (Hippana)",
         "article": ""
@@ -3371,12 +3379,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q15695908",
         "itemLabel": "theatre of Soluntum",
         "itemDescription": "building in Soluntum, Italy",
         "image": "",
         "geo": "Point(13.53188 38.09419)",
-        "": "38.09419)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatro%20di%20Solunto.JPG",
         "picAlbum": "Theatre of Solunto",
         "article": ""
@@ -3539,12 +3549,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q3616676",
         "itemLabel": "Termini Imerese amphitheatre",
         "itemDescription": "building in Termini Imerese, Italy",
         "image": "",
         "geo": "Point(13.693652777 37.987294444)",
-        "": "37.987294444)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -4154,12 +4166,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#38571a",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q15980592",
         "itemLabel": "Ancient Greek theatre of Morgantina",
         "itemDescription": "theatre in Aidone, Italy",
         "image": "",
         "geo": "Point(14.4793789 37.4300709)",
-        "": "37.4300709)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/TEATRO%20SANTUARIO.JPG",
         "picAlbum": "Ancient Greek theatre (Morgantina)",
         "article": ""
@@ -4280,12 +4294,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#5c0700",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q29654222",
         "itemLabel": "Greek Theare of Agyrion",
         "itemDescription": "ancient Greek theatre in Agira, Sicily, Italy",
         "image": "",
         "geo": "Point(14.523125 37.654246)",
-        "": "37.654246)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Pianta%20teatro%20di%20Agira.svg",
         "picAlbum": "Greek Theatre of Agira",
         "article": ""
@@ -4511,12 +4527,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q16612559",
         "itemLabel": "Greek theatre of Akrai",
         "itemDescription": "ancient Greek theatre in Palazzolo Acreide, Sicily, Italy",
         "image": "",
         "geo": "Point(14.8946835 37.05762)",
-        "": "37.05762)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Palazzolo%20Acreide%20Theater.jpg",
         "picAlbum": "Ancient Greek theatre (Palazzolo Acreide)",
         "article": ""
@@ -4595,12 +4613,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a77b00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3826959",
         "itemLabel": "Greek Theatre of Tindari",
         "itemDescription": "Ancient Greek theatre of Tindari in today's Patti, Italy",
         "image": "",
         "geo": "Point(15.0424 38.1437)",
-        "": "38.1437)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Tindari%20greek%20theatre%202.JPG",
         "picAlbum": "",
         "article": ""
@@ -4616,12 +4636,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#785700",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q3880841",
         "itemLabel": "Odeon of Catania",
         "itemDescription": "ancient Greek odeon in Catania, Italy",
         "image": "",
         "geo": "Point(15.08283333 37.50297222)",
-        "": "37.50297222)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Odeum%20Catania.JPG",
         "picAlbum": "Odeon (Catania)",
         "article": ""
@@ -4637,12 +4659,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#785700",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q600690",
         "itemLabel": "Roman Theatre of Catania",
         "itemDescription": "theater",
         "image": "",
         "geo": "Point(15.083611 37.502778)",
-        "": "37.502778)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Catania%20roman%20theatre%20msu2017-9981.jpg",
         "picAlbum": "Ancient Roman theatre (Catania)",
         "article": ""
@@ -4658,12 +4682,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#785700",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q2844406",
         "itemLabel": "Roman amphitheatre of Catania",
         "itemDescription": "Roman amphitheatre in Catania, Sicily, Italy",
         "image": "",
         "geo": "Point(15.085417 37.507361)",
-        "": "37.507361)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Catania%20anfiteatro%20romano2423.jpg",
         "picAlbum": "Amphitheatre (Catania)",
         "article": "https://en.wikipedia.org/wiki/Amphitheatre_of_Catania"
@@ -4679,12 +4705,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q1058967",
         "itemLabel": "Greek Theatre of Syracuse",
         "itemDescription": "ancient Greek theatre in Siracusa, Italy",
         "image": "",
         "geo": "Point(15.275 37.07611)",
-        "": "37.07611)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Greek%20theater%20of%20Syracuse%20AvL.JPG",
         "picAlbum": "Ancient Greek theatre (Syracuse)",
         "article": "https://en.wikipedia.org/wiki/Greek_Theatre_of_Syracuse"
@@ -4700,12 +4728,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q1091447",
         "itemLabel": "Roman amphitheatre of Syracuse",
         "itemDescription": "Roman amphitheatre in Syracuse, Italy",
         "image": "",
         "geo": "Point(15.27895 37.074152777)",
-        "": "37.074152777)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20Romano%20di%20Siracusa%20%28immagine%202%29.jpg",
         "picAlbum": "Amphitheatre (Syracuse)",
         "article": "https://en.wikipedia.org/wiki/Roman_amphitheatre_of_Syracuse"
@@ -4721,12 +4751,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ad3e00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q4331373",
         "itemLabel": "Roman Odeum of Taormina",
         "itemDescription": "small Roman odeum (concert hall, theatre) in Taormina, Sicily",
         "image": "",
         "geo": "Point(15.288083333 37.853944444)",
-        "": "37.853944444)",
         "pic": "",
         "picAlbum": "Ancient Odeon (Taormina)",
         "article": ""
@@ -4742,12 +4774,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#77bb41",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q747484",
         "itemLabel": "Ancient theatre of Taormina",
         "itemDescription": "ancient Greek theatre",
         "image": "",
         "geo": "Point(15.2926 37.8522)",
-        "": "37.8522)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Taormina%20BW%202012-10-05%2016-23-06.JPG",
         "picAlbum": "Ancient Greek-Roman theatre (Taormina)",
         "article": "https://en.wikipedia.org/wiki/Ancient_theatre_of_Taormina"
