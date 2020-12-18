@@ -3898,12 +3898,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#38571a",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28977996",
         "itemLabel": "Cumae amphitheatre",
         "itemDescription": "Roman amphitheatre in Bacoli, Italy",
         "image": "",
         "geo": "Point(14.056 40.842)",
-        "": "40.842)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -3940,12 +3942,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q662766",
         "itemLabel": "Flavian Amphitheater",
         "itemDescription": "Roman amphitheatre in Pozzuoli, Italy",
         "image": "",
         "geo": "Point(14.125078 40.825869)",
-        "": "40.825869)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Rive%2C%20Roberto%20%2818..-1889%29%20-%20n.%20107%20-%20Anfiteatro%20di%20Pozzuoli.jpg",
         "picAlbum": "Amphitheatre (Pozzuoli)",
         "article": "https://en.wikipedia.org/wiki/Flavian_Amphitheater_(Pozzuoli)"
@@ -3961,12 +3965,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q24940661",
         "itemLabel": "Anfiteatro minore",
         "itemDescription": "Roman amphitheatre in Pozzuoli, Italy",
         "image": "",
         "geo": "Point(14.127519444 40.826061111)",
-        "": "40.826061111)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -4091,12 +4097,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28978046",
         "itemLabel": "Neapolis amphitheatre",
         "itemDescription": "Roman amphitheatre in Naples, Italy",
         "image": "",
         "geo": "Point(14.256 40.852)",
-        "": "40.852)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -4112,12 +4120,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q2202658",
         "itemLabel": "Roman Theatre of Neapolis",
         "itemDescription": "building in Naples, Italy",
         "image": "",
         "geo": "Point(14.25668389 40.85235375)",
-        "": "40.85235375)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/CaveaAnticaglia.jpg",
         "picAlbum": "Ancient Roman theatre (Naples)",
         "article": ""
@@ -4221,12 +4231,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q16612568",
         "itemLabel": "theatre of Herculaneum",
         "itemDescription": "ancient Roman theatre in Ercolano, Italy",
         "image": "",
         "geo": "Point(14.347611111 40.808333333)",
-        "": "40.808333333)",
         "pic": "",
         "picAlbum": "Ancient Roman theatre (Herculaneum)",
         "article": ""
@@ -4399,12 +4411,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978050",
         "itemLabel": "Nuvlana amphitheatre",
         "itemDescription": "Roman amphitheatre in Nola, Italy",
         "image": "",
         "geo": "Point(14.52 40.928)",
-        "": "40.928)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -4443,12 +4457,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28001211",
         "itemLabel": "theatre of Sarno",
         "itemDescription": "theatre in Sarno, Italy",
         "image": "",
         "geo": "Point(14.590101 40.831061)",
-        "": "40.831061)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatro%20ellenistico-romano%20di%20Sarno%2028.JPG",
         "picAlbum": "Ancient Roman theatre (Sarno)",
         "article": ""
@@ -4464,12 +4480,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28378828",
         "itemLabel": "Avella amphitheatre",
         "itemDescription": "building in Avella, Italy",
         "image": "",
         "geo": "Point(14.608 40.961)",
-        "": "40.961)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20romano%20di%20Avella.jpg",
         "picAlbum": "Amphitheatre (Avella)",
         "article": ""
@@ -4506,12 +4524,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#b51a00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978047",
         "itemLabel": "Nocera amphitheatre",
         "itemDescription": "Roman amphitheatre in Nocera Superiore, Italy",
         "image": "",
         "geo": "Point(14.657 40.746)",
-        "": "40.746)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -4548,12 +4568,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#b51a00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28001209",
         "itemLabel": "Roman Theatre of Nuceria Alfaterna",
         "itemDescription": "ancient Roman theatre in Nocera Superiore, Italy",
         "image": "",
         "geo": "Point(14.66274 40.73784)",
-        "": "40.73784)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -4634,12 +4656,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28977993",
         "itemLabel": "Abellinum amphitheatre",
         "itemDescription": "Roman amphitheatre in Avellino, Italy",
         "image": "",
         "geo": "Point(14.783 40.917)",
-        "": "40.917)",
         "pic": "",
         "picAlbum": "",
         "article": ""
