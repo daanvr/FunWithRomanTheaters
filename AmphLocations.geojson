@@ -3010,12 +3010,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a77b00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q980425",
         "itemLabel": "Suasa amphitheatre",
         "itemDescription": "amphitheatre of the roman city of Suasa",
         "image": "",
         "geo": "Point(12.987222 43.625)",
-        "": "43.625)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20di%20Suasa%20-%20Porta%20pompae%20con%20le%20querce.JPG",
         "picAlbum": "Amphitheatre (Suasa)",
         "article": ""
@@ -3209,12 +3211,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#8d8600",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28001184",
         "itemLabel": "Roman Theatre of Urbisaglia",
         "itemDescription": "ancient Roman theatre in Urbisaglia, Italy",
         "image": "",
         "geo": "Point(13.380765 43.198883)",
-        "": "43.198883)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Urbs%20Salvia%20Theatre.jpg",
         "picAlbum": "Ancient Roman theatre (Urbisaglia)",
         "article": ""
@@ -3230,12 +3234,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#8d8600",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978100",
         "itemLabel": "Amphitheatre of Urbs Salvia",
         "itemDescription": "ancient Roman amphitheatre in Urbisaglia, Italy",
         "image": "",
         "geo": "Point(13.387 43.201)",
-        "": "43.201)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20Urbs%20Salvia2.jpg",
         "picAlbum": "Amphitheatre (Urbisaglia)",
         "article": ""
@@ -3272,12 +3278,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a77b00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28001156",
         "itemLabel": "Roman theatre of Helvia Recina",
         "itemDescription": "ancient Roman theatre in Macerata, Italy",
         "image": "",
         "geo": "Point(13.42162 43.32754)",
-        "": "43.32754)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatro%20Helvia%20Recina.jpg",
         "picAlbum": "Roman theater in Helvia Recina",
         "article": ""
@@ -3316,12 +3324,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#5c0700",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28978025",
         "itemLabel": "Falerio Picenus amphitheatre",
         "itemDescription": "Roman amphitheatre in Falerone, Italy",
         "image": "",
         "geo": "Point(13.496 43.101)",
-        "": "43.101)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -3337,12 +3347,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#8d8600",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q53673000",
         "itemLabel": "Roman Theatre of Falerio Picenus",
         "itemDescription": "ancient Roman theatre in Falerone, Italy",
         "image": "",
         "geo": "Point(13.499982 43.102452)",
-        "": "43.102452)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -3358,12 +3370,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7c2a00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3616680",
         "itemLabel": "Roman Amphitheatre of Ancona",
         "itemDescription": "building in Ancona, Italy",
         "image": "",
         "geo": "Point(13.512 43.6247)",
-        "": "43.6247)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Ancona-Anfiteatro%20romano%2001.JPG",
         "picAlbum": "Amphitheatre (Ancona)",
         "article": ""
@@ -3423,12 +3437,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ad3e00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q3982366",
         "itemLabel": "Roman Theatre of Ascoli Piceno",
         "itemDescription": "archaeological site in Ascoli Piceno",
         "image": "",
         "geo": "Point(13.56858056 42.85366111)",
-        "": "42.85366111)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatro%20Romano%20di%20Ascoli%20Piceno.jpg",
         "picAlbum": "Ancient Roman theatre (Ascoli Piceno)",
         "article": ""
@@ -3593,12 +3609,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d95000",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q3982372",
         "itemLabel": "Roman Theatre of Teramo",
         "itemDescription": "archaeological site in Teramo",
         "image": "",
         "geo": "Point(13.704075 42.65789722)",
-        "": "42.65789722)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatro%20romano%20di%20Teramo.jpg",
         "picAlbum": "Ancient Roman theatre (Teramo)",
         "article": ""
@@ -3614,12 +3632,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#5c0700",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28978028",
         "itemLabel": "Firmum Picenum amphitheatre",
         "itemDescription": "Roman amphitheatre in Fermo, Italy",
         "image": "",
         "geo": "Point(13.718 43.161)",
-        "": "43.161)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -3887,12 +3907,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d29d00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28978015",
         "itemLabel": "Teate Marrucinorum amphitheatre",
         "itemDescription": "Roman amphitheatre in Chieti, Italy",
         "image": "",
         "geo": "Point(14.162539 42.345025)",
-        "": "42.345025)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/ChietiAnfiteatro.jpg",
         "picAlbum": "",
         "article": ""
@@ -3908,12 +3930,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#e32400",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q55685833",
         "itemLabel": "Chieti Roman theatre",
         "itemDescription": "archeological site in Chieti, Italy",
         "image": "",
         "geo": "Point(14.163451 42.347124)",
-        "": "42.347124)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -4443,12 +4467,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#5c0700",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28978101",
         "itemLabel": "Histonium amphitheatre",
         "itemDescription": "Roman amphitheatre in Vasto, Italy",
         "image": "",
         "geo": "Point(14.708 42.111)",
-        "": "42.111)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -4550,12 +4576,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a77b00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q2844407",
         "itemLabel": "Roman amphitheatre of Larino",
         "itemDescription": "Roman amphitheatre in Larino, Italy",
         "image": "",
         "geo": "Point(14.916289 41.805525)",
-        "": "41.805525)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Larino%20-%20Anfiteatro%204.jpg",
         "picAlbum": "Amphitheatre (Larino)",
         "article": ""
