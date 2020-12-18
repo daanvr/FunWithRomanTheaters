@@ -2786,12 +2786,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a96800",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q3982364",
         "itemLabel": "Roman Theatre of Anzio",
         "itemDescription": "building in Anzio, Italy",
         "image": "",
         "geo": "Point(12.62865278 41.45516111)",
-        "": "41.45516111)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatro%20anzio%20orchestra.JPG",
         "picAlbum": "Ancient Roman theatre (Anzio)",
         "article": ""
@@ -2830,12 +2832,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a77b00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3616679",
         "itemLabel": "Roman Amphitheatre of Albano Laziale",
         "itemDescription": "building in Albano Laziale, Italy",
         "image": "",
         "geo": "Point(12.664947222 41.732719444)",
-        "": "41.732719444)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Albano%20L.%20Anfieatro%20Romano.JPG",
         "picAlbum": "Amphitheatre (Albano Laziale)",
         "article": ""
@@ -2897,12 +2901,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q56477142",
         "itemLabel": "Roman Theatre of Tusculum",
         "itemDescription": "ancient Roman theatre in Grottaferrata near Frascati, Italy",
         "image": "",
         "geo": "Point(12.71052 41.79833)",
-        "": "41.79833)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Tuscolo1.jpg",
         "picAlbum": "Ancient Roman theatre (Tusculum)",
         "article": ""
@@ -2918,12 +2924,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978034",
         "itemLabel": "Tusculum amphitheatre",
         "itemDescription": "Roman amphitheatre in Grottaferrata, Italy",
         "image": "",
         "geo": "Point(12.718 41.795)",
-        "": "41.795)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -3161,12 +3169,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a77b00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978091",
         "itemLabel": "Terracina amphitheatre",
         "itemDescription": "Roman amphitheatre in Terracina, Italy",
         "image": "",
         "geo": "Point(13.247 41.289)",
-        "": "41.289)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -3563,12 +3573,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#5c0700",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978029",
         "itemLabel": "Formiae amphitheatre",
         "itemDescription": "Roman amphitheatre in Formia, Italy",
         "image": "",
         "geo": "Point(13.617 41.267)",
-        "": "41.267)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -3737,12 +3749,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978041",
         "itemLabel": "Minturnae amphitheatre",
         "itemDescription": "Roman amphitheatre in Minturno, Italy",
         "image": "",
         "geo": "Point(13.764 41.242)",
-        "": "41.242)",
         "pic": "",
         "picAlbum": "",
         "article": ""
