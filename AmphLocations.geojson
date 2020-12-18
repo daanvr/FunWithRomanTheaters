@@ -2993,12 +2993,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q56513543",
         "itemLabel": "Greek Theatre at Hadrian's Villa",
         "itemDescription": "ancient Roman theatre in Tivoli, Italy, one of three ancient theatres on the site",
         "image": "",
         "geo": "Point(12.77388 41.94526)",
-        "": "41.94526)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Tivoli%2C%20Villa%20Adriana%2C%20Teatro%20greco.jpg",
         "picAlbum": "Greek Theatre at Villa Adriana (Tivoli)",
         "article": ""
@@ -3014,12 +3016,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#8d8600",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978094",
         "itemLabel": "Tibur amphitheatre",
         "itemDescription": "Roman amphitheatre in Tivoli, Italy",
         "image": "",
         "geo": "Point(12.798 41.961)",
-        "": "41.961)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20di%20Bleso%202.JPG",
         "picAlbum": "Amphitheatre of Blaesus (Tivoli)",
         "article": ""
@@ -3035,12 +3039,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d58400",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978109",
         "itemLabel": "Zagarolo amphitheatre",
         "itemDescription": "Roman amphitheatre in Zagarolo, Italy",
         "image": "",
         "geo": "Point(12.819 41.858)",
-        "": "41.858)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -3079,12 +3085,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978043",
         "itemLabel": "Trebula Mutuesca amphitheatre",
         "itemDescription": "Roman amphitheatre in Monteleone Sabino, Italy",
         "image": "",
         "geo": "Point(12.868 42.228)",
-        "": "42.228)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -3261,12 +3269,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978031",
         "itemLabel": "Frusinum amphitheatre",
         "itemDescription": "Roman amphitheatre in Frosinone, Italy",
         "image": "",
         "geo": "Point(13.353 41.639)",
-        "": "41.639)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -3349,12 +3359,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q21011990",
         "itemLabel": "amphitheatre of Alba Fucens",
         "itemDescription": "archaeological site in Massa d'Albe (AQ), Italy",
         "image": "",
         "geo": "Point(13.412313 42.07718)",
-        "": "42.07718)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20di%20Alba%20Fucens%20e%20monte%20Velino.jpg",
         "picAlbum": "Amphitheatre (Alba Fucens)",
         "article": ""
@@ -3508,12 +3520,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#b51a00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28978067",
         "itemLabel": "Fabrateria Nova amphitheatre",
         "itemDescription": "Roman amphitheatre in San Giovanni Incarico, Italy",
         "image": "",
         "geo": "Point(13.553 41.519)",
-        "": "41.519)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -3596,12 +3610,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#38571a",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978069",
         "itemLabel": "Peltuinum amphitheatre",
         "itemDescription": "Roman amphitheatre in San Pio delle Camere, Italy",
         "image": "",
         "geo": "Point(13.623996 42.282894)",
-        "": "42.282894)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Peltuinum%2021.JPG",
         "picAlbum": "Ancient Roman theatre (Peltuinum)",
         "article": ""
@@ -3617,12 +3633,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ad3e00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28978065",
         "itemLabel": "Marruvium amphitheatre",
         "itemDescription": "Roman amphitheatre in San Benedetto dei Marsi, Italy",
         "image": "",
         "geo": "Point(13.628 42.007)",
-        "": "42.007)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20di%20Marruvium%208%202016.jpg",
         "picAlbum": "Amphitheatre in Marruvium",
         "article": ""
@@ -3638,12 +3656,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28977987",
         "itemLabel": "Aquinum amphitheatre",
         "itemDescription": "Roman amphitheatre in Aquino, Italy",
         "image": "",
         "geo": "Point(13.689702 41.497728)",
-        "": "41.497728)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -3793,12 +3813,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q51994627",
         "itemLabel": "Roman Theatre of Casinum",
         "itemDescription": "ancient Roman theatre in Cassino, Italy",
         "image": "",
         "geo": "Point(13.821105 41.483218)",
-        "": "41.483218)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatro%20romano%20cassino.jpg",
         "picAlbum": "Ancient Roman theatre (Casinum)",
         "article": ""
@@ -3814,12 +3836,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978014",
         "itemLabel": "Casinum amphitheatre",
         "itemDescription": "Roman amphitheatre in Cassino, Italy",
         "image": "",
         "geo": "Point(13.824 41.483)",
-        "": "41.483)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20romano%20cassino.jpg",
         "picAlbum": "Amphitheatre (Casinum)",
         "article": ""
@@ -3856,12 +3880,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#5c0700",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q24571883",
         "itemLabel": "Roman Theatre of Sessa Aurunca",
         "itemDescription": "ancient Roman theatre in Sessa Auruncua, Campania, Italy",
         "image": "",
         "geo": "Point(14.019153 41.22459)",
-        "": "41.22459)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Sessa%20aurunca%20-%20Teatro%20Romano.jpg",
         "picAlbum": "Ancient Roman theatre (Sessa Aurunca)",
         "article": ""
@@ -3877,12 +3903,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#b51a00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28978105",
         "itemLabel": "Venafrum amphitheatre",
         "itemDescription": "Roman amphitheatre in Venafro, Italy",
         "image": "",
         "geo": "Point(14.046 41.483)",
-        "": "41.483)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -3921,12 +3949,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d29d00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28001166",
         "itemLabel": "Ancient Roman Theatre of Teano",
         "itemDescription": "ancient Roman theatre in Teano, Italy",
         "image": "",
         "geo": "Point(14.07283 41.24827)",
-        "": "41.24827)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatro%20Romano%20di%20Teano.jpg",
         "picAlbum": "Ancient Roman theatre (Teano)",
         "article": ""
@@ -3988,12 +4018,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c3d117",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28978006",
         "itemLabel": "Cales amphitheatre",
         "itemDescription": "Roman amphitheatre in Calvi, Italy",
         "image": "",
         "geo": "Point(14.138 41.201)",
-        "": "41.201)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -4055,12 +4087,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28978071",
         "itemLabel": "Capua amphitheatre",
         "itemDescription": "Roman amphitheatre in Santa Maria Capua Vetere, Italy",
         "image": "",
         "geo": "Point(14.25 41.086)",
-        "": "41.086)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Amphitheater%20santa%20maria%20capua%20vetere.jpg",
         "picAlbum": "Amphitheatre (Santa Maria di Capua Vetere)",
         "article": ""
@@ -4076,12 +4110,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q474970",
         "itemLabel": "Roman amphitheatre of Santa Maria Capua Vetere",
         "itemDescription": "Roman amphitheatre in Santa Maria Capua Vetere, Italy",
         "image": "",
         "geo": "Point(14.25 41.08611111)",
-        "": "41.08611111)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Capua%20Antica%20Amphitheatre.jpg",
         "picAlbum": "Amphitheatre (Santa Maria di Capua Vetere)",
         "article": "https://en.wikipedia.org/wiki/Amphitheatre_of_Capua"
@@ -4189,12 +4225,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q29898192",
         "itemLabel": "Q29898192",
         "itemDescription": "building in \"Alife, Campania\", Italy",
         "image": "",
         "geo": "Point(14.33495 41.3255)",
-        "": "41.3255)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Visione%20d%27insieme%20anfiteatro.jpg",
         "picAlbum": "",
         "article": ""
@@ -4210,12 +4248,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ffaa00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28977981",
         "itemLabel": "Allifae amphitheatre",
         "itemDescription": "Roman amphitheatre in Alife, Italy",
         "image": "",
         "geo": "Point(14.335 41.326)",
-        "": "41.326)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20Alife.jpg",
         "picAlbum": "Amphitheatre (Alife)",
         "article": ""
@@ -4277,12 +4317,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#77bb41",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q24942825",
         "itemLabel": "Roman Theatre of Bovianum Vetus",
         "itemDescription": "ancient Roman theatre in Pietrabbondante, Italy",
         "image": "",
         "geo": "Point(14.38747 41.73975)",
-        "": "41.73975)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatro-Pietrabbondante.jpg",
         "picAlbum": "",
         "article": ""
@@ -4390,12 +4432,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d95000",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28978086",
         "itemLabel": "Telesia amphitheatre",
         "itemDescription": "Roman amphitheatre in Telese Terme, Italy",
         "image": "",
         "geo": "Point(14.501 41.224)",
-        "": "41.224)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20Telesia.jpg",
         "picAlbum": "Amphitheatre (Telesia)",
         "article": ""
@@ -4503,12 +4547,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q63115273",
         "itemLabel": "Roman Theatre of Saepinum",
         "itemDescription": "Ancient Roman theatre in Sepino, Italy",
         "image": "",
         "geo": "Point(14.61748 41.43444)",
-        "": "41.43444)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Sito%20archeologico%20di%20Sepinum%20-%20panoramio%20%285%29.jpg",
         "picAlbum": "Theatre (Saepinum-Altilia)",
         "article": ""
@@ -4614,12 +4660,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3616683",
         "itemLabel": "Roman Amphitheatre of Benevento",
         "itemDescription": "building in Benevento, Italy",
         "image": "",
         "geo": "Point(14.7674 41.1324)",
-        "": "41.1324)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Benevento-Anfiteatro%20romano.jpg",
         "picAlbum": "Amphitheatre (Benevento)",
         "article": ""
@@ -4635,12 +4683,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q1617215",
         "itemLabel": "Roman Theatre",
         "itemDescription": "Roman theatre in Benevento",
         "image": "",
         "geo": "Point(14.78262 41.12976)",
-        "": "41.12976)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Benevento-Teatro%20Romano.jpg",
         "picAlbum": "Ancient Roman theatre (Benevento)",
         "article": "https://en.wikipedia.org/wiki/Roman_Theatre,_Benevento"
@@ -4748,12 +4798,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978022",
         "itemLabel": "Aeclanum amphitheatre",
         "itemDescription": "Roman amphitheatre in Eclano, Italy",
         "image": "",
         "geo": "Point(15.012 41.054)",
-        "": "41.054)",
         "pic": "",
         "picAlbum": "",
         "article": ""
