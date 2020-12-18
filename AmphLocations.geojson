@@ -1498,12 +1498,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q65032369",
         "itemLabel": "Roman Theatre of Luna",
         "itemDescription": "ancient Roman theatre in Luni, Italy",
         "image": "",
         "geo": "Point(10.020222222 44.064916666)",
-        "": "44.064916666)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -1519,12 +1521,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q2144316",
         "itemLabel": "Roman Amphitheatre of Luna",
         "itemDescription": "building in Luni, Ortonovo, Italy",
         "image": "",
         "geo": "Point(10.0224 44.0626)",
-        "": "44.0626)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Luna%20Amphitheater1.jpg",
         "picAlbum": "Amphitheatre (Luni)",
         "article": ""
@@ -1768,12 +1772,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7c2a00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q2844409",
         "itemLabel": "Roman amphitheatre of Lucca",
         "itemDescription": "Roman amphitheatre in Lucca, Italy",
         "image": "",
         "geo": "Point(10.50611 43.845398)",
-        "": "43.845398)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20Lucca.png",
         "picAlbum": "Amphitheatre (Lucca)",
         "article": ""
@@ -1904,12 +1910,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q1825356",
         "itemLabel": "Roman Theatre of Volterra",
         "itemDescription": "ancient Roman theatre in Volterra, Italy",
         "image": "",
         "geo": "Point(10.86 43.4036)",
-        "": "43.4036)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Volterra-TheatreRomain.jpg",
         "picAlbum": "Ancient Roman theatre (Volterra)",
         "article": ""
@@ -1925,12 +1933,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q100106609",
         "itemLabel": "Roman amphitheatre of Volterra",
         "itemDescription": "Roman amphitheatre in Volterra, Italy",
         "image": "",
         "geo": "Point(10.86174 43.40706)",
-        "": "43.40706)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -2101,12 +2111,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q3825825",
         "itemLabel": "Roman Theatre of Florence",
         "itemDescription": "ancient Roman theatre in Florence, Italy",
         "image": "",
         "geo": "Point(11.25729167 43.76926667)",
-        "": "43.76926667)",
         "pic": "",
         "picAlbum": "Archaeological site of the ancient Roman theatre of Florence",
         "article": "https://en.wikipedia.org/wiki/Roman_Theatre_of_Florence"
@@ -2122,12 +2134,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q519184",
         "itemLabel": "Roman amphitheatre of Florence",
         "itemDescription": "Roman ampitheatre in Florence, Italy",
         "image": "",
         "geo": "Point(11.2599 43.76915)",
-        "": "43.76915)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Museo%20Firenze%20com%27era%2C%20plastico%20Florentia%204.JPG",
         "picAlbum": "Amphitheatre (Florence)",
         "article": "https://en.wikipedia.org/wiki/Roman_Amphitheatre_of_Florence"
@@ -2143,12 +2157,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q2575871",
         "itemLabel": "Roman Theatre, Fiesole",
         "itemDescription": "ancient Roman theatre in Fiesole, Italy",
         "image": "",
         "geo": "Point(11.293928 43.808006)",
-        "": "43.808006)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Fiesole%2C%20area%20archeologica%2C%20teatro%2023.jpg",
         "picAlbum": "Ancient Roman theatre (Faesulae)",
         "article": ""
