@@ -2090,12 +2090,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3616685",
         "itemLabel": "Roman Amphitheatre of Rusellae",
         "itemDescription": "building in Grosseto, Italy",
         "image": "",
         "geo": "Point(11.1589 42.8283)",
-        "": "42.8283)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20Roselle%201.JPG",
         "picAlbum": "Amphitheatre (Roselle)",
         "article": ""
@@ -2222,12 +2224,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a77b00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q3616681",
         "itemLabel": "Roman Amphitheatre of Arezzo",
         "itemDescription": "building in Arezzo, Italy",
         "image": "",
         "geo": "Point(11.8806 43.4606)",
-        "": "43.4606)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20romano%20Arezzo.jpg",
         "picAlbum": "Amphitheatre (Arezzo)",
         "article": ""
@@ -2243,12 +2247,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a96800",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978001",
         "itemLabel": "Volsinii amphitheatre",
         "itemDescription": "Roman amphitheatre in Bolsena, Italy",
         "image": "",
         "geo": "Point(11.99 42.65)",
-        "": "42.65)",
         "pic": "",
         "picAlbum": "",
         "article": ""
