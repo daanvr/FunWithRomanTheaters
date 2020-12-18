@@ -3566,12 +3566,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28977988",
         "itemLabel": "Asculum amphitheatre",
         "itemDescription": "Roman amphitheatre in Ascoli Piceno, Italy",
         "image": "",
         "geo": "Point(13.571 42.856)",
-        "": "42.856)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -3702,12 +3704,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3616688",
         "itemLabel": "Roman Amphitheatre of Teramo",
         "itemDescription": "archaeological site in Teramo",
         "image": "",
         "geo": "Point(13.7032 42.6579)",
-        "": "42.6579)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20romano%20di%20Teramo.jpg",
         "picAlbum": "Amphitheatre (Teramo)",
         "article": ""
