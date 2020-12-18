@@ -1636,12 +1636,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3982365",
         "itemLabel": "Roman Theatre of Brescia",
         "itemDescription": "ancient Roman theatre in Brescia, Italy",
         "image": "",
         "geo": "Point(10.2269897 45.539868)",
-        "": "45.539868)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatro%20antico%201.JPG",
         "picAlbum": "Ancient Roman theatre (Brescia)",
         "article": ""
@@ -2002,12 +2004,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c3d117",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q641556",
         "itemLabel": "Verona Arena",
         "itemDescription": "Roman amphitheatre in Verona, Italy",
         "image": "",
         "geo": "Point(10.994444444 45.438888888)",
-        "": "45.438888888)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Arena%20Anfiteatro.XE3F1912a.jpg",
         "picAlbum": "Arena (Verona)",
         "article": "https://en.wikipedia.org/wiki/Verona_Arena"
@@ -2023,12 +2027,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a96800",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q1477572",
         "itemLabel": "Roman theatre of Verona",
         "itemDescription": "performing arts venue in Verona",
         "image": "",
         "geo": "Point(11.001638888 45.447416666)",
-        "": "45.447416666)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/VeronaTeatroRomanoDalMuseo.jpg",
         "picAlbum": "Ancient Roman theatre (Verona)",
         "article": "https://en.wikipedia.org/wiki/Roman_theatre,_Verona"
@@ -2182,12 +2188,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q16912710",
         "itemLabel": "Teatro Berga",
         "itemDescription": "ancient Roman theatre in Vicenza, Italy",
         "image": "",
         "geo": "Point(11.547949 45.543888)",
-        "": "45.543888)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatro%20Berga%20Palladio.jpg",
         "picAlbum": "Teatro Berga (Vicenza)",
         "article": "https://en.wikipedia.org/wiki/Teatro_Berga"
@@ -2203,12 +2211,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a77b00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28978056",
         "itemLabel": "Patavium amphitheatre",
         "itemDescription": "Roman amphitheatre in Padua, Italy",
         "image": "",
         "geo": "Point(11.879 45.412)",
-        "": "45.412)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/03PadovaArena.JPG",
         "picAlbum": "Roman Arena (Padua)",
         "article": ""
@@ -2408,12 +2418,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q2623831",
         "itemLabel": "Amphitheater of Statilius Taurus",
         "itemDescription": "former roman amphitheater in Rome",
         "image": "",
         "geo": "Point(12.469811 41.900105)",
-        "": "41.900105)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Amphitaterum%20Tauri%201663.jpg",
         "picAlbum": "Amphitheater of Statilius Taurus",
         "article": "https://en.wikipedia.org/wiki/Amphitheater_of_Statilius_Taurus"
@@ -2429,12 +2441,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q944814",
         "itemLabel": "Theatre of Pompey",
         "itemDescription": "theatre in ancient Rome",
         "image": "",
         "geo": "Point(12.47361111 41.89527778)",
-        "": "41.89527778)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Theatre%20of%20Pompey%203D%20cut%20out.png",
         "picAlbum": "Theatre of Pompey",
         "article": "https://en.wikipedia.org/wiki/Theatre_of_Pompey"
@@ -2450,12 +2464,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q2025417",
         "itemLabel": "Amphitheater of Nero",
         "itemDescription": "former wooden amphitheater in Rome",
         "image": "",
         "geo": "Point(12.473677 41.895353)",
-        "": "41.895353)",
         "pic": "",
         "picAlbum": "",
         "article": "https://en.wikipedia.org/wiki/Amphitheater_of_Nero"
@@ -2471,12 +2487,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q21711223",
         "itemLabel": "Amphitheater of Caligula",
         "itemDescription": "building in Rome, Italy",
         "image": "",
         "geo": "Point(12.477744 41.899819)",
-        "": "41.899819)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Plan%20Rome%20-%20Amphitheatrum%20Caligulae.png",
         "picAlbum": "",
         "article": "https://en.wikipedia.org/wiki/Amphitheater_of_Caligula"
@@ -2492,12 +2510,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q2734384",
         "itemLabel": "Theatre of Balbus",
         "itemDescription": "theatre in Ancient Rome",
         "image": "",
         "geo": "Point(12.4786 41.8944)",
-        "": "41.8944)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Theatre%20of%20Balbus.jpg",
         "picAlbum": "Theatre of Balbus",
         "article": "https://en.wikipedia.org/wiki/Theatre_of_Balbus"
@@ -2513,12 +2533,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c3d117",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q659138",
         "itemLabel": "Theatre of Marcellus",
         "itemDescription": "theater",
         "image": "",
         "geo": "Point(12.479483 41.891911)",
-        "": "41.891911)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Marcellus%20theater%20Rome.jpg",
         "picAlbum": "Theatre of Marcellus (Rome)",
         "article": "https://en.wikipedia.org/wiki/Theatre_of_Marcellus"
@@ -2557,12 +2579,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q10285",
         "itemLabel": "Colosseum",
         "itemDescription": "ancient Roman amphitheatre in Rome",
         "image": "",
         "geo": "Point(12.492222222 41.890277777)",
-        "": "41.890277777)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Colosseo%202020.jpg",
         "picAlbum": "Colosseum",
         "article": "https://en.wikipedia.org/wiki/Colosseum"
@@ -2578,12 +2602,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q1232473",
         "itemLabel": "Ludus Magnus",
         "itemDescription": "arena",
         "image": "",
         "geo": "Point(12.495 41.89)",
-        "": "41.89)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Plan%20Rome%20-%20Ludus%20Magnus.png",
         "picAlbum": "Ludus Magnus",
         "article": "https://en.wikipedia.org/wiki/Ludus_Magnus"
@@ -2599,12 +2625,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#c4bc00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q475012",
         "itemLabel": "Amphitheatrum Castrense",
         "itemDescription": "Roman amphitheatre in Rome, Italy",
         "image": "",
         "geo": "Point(12.515 41.8875)",
-        "": "41.8875)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Esquilino%20-%20Anfiteatro%20Castrense%201000921.JPG",
         "picAlbum": "Anfiteatro Castrense",
         "article": "https://en.wikipedia.org/wiki/Amphitheatrum_Castrense"
@@ -2846,12 +2874,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28978038",
         "itemLabel": "Lanuvium amphitheatre",
         "itemDescription": "Roman amphitheatre in Lanuvio, Italy",
         "image": "",
         "geo": "Point(12.7 41.683)",
-        "": "41.683)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -10020,12 +10050,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a96800",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q2844419",
         "itemLabel": "Milan amphitheatre",
         "itemDescription": "Roman amphitheatre in Milan, Italy",
         "image": "",
         "geo": "Point(9.178733333 45.457427777)",
-        "": "45.457427777)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/4194%20-%20Milano%20-%20Ruderi%20dell%27Arena%20romana%20-%20Foto%20Giovanni%20Dall%27Orto%2014-July.2007.jpg",
         "picAlbum": "Ancient Roman arena (Milan)",
         "article": "https://en.wikipedia.org/wiki/Milan_amphitheatre"
@@ -10041,12 +10073,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a96800",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3982368",
         "itemLabel": "Roman Theatre of Milan",
         "itemDescription": "building in Milan, Italy",
         "image": "",
         "geo": "Point(9.18277778 45.46527778)",
-        "": "45.46527778)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Lapide%20del%20teatro%20romano%20a%20Palazzo%20Mezzanotte.jpg",
         "picAlbum": "Ancient Roman theatre (Milan)",
         "article": ""
