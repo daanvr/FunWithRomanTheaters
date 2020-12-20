@@ -8668,12 +8668,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q1510",
         "itemLabel": "Ancient Theatre of Fourvière",
         "itemDescription": "Roman ancient structure in Lyon, France",
         "image": "",
         "geo": "Point(4.819722 45.759722)",
-        "": "45.759722)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Lyon%20-%20Lugdunum%20-%20Th%C3%A9atre%20Romain.jpg",
         "picAlbum": "Théâtre romain de Fourvière",
         "article": "https://en.wikipedia.org/wiki/Ancient_Theatre_of_Fourvi%C3%A8re"
@@ -8689,12 +8691,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3175",
         "itemLabel": "Odeon of Lyon",
         "itemDescription": "small ancient Roman theatre in Lyon, France",
         "image": "",
         "geo": "Point(4.81972222 45.75861111)",
-        "": "45.75861111)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Lyon%205%20-%20Od%C3%A9on%20antique%2001.jpg",
         "picAlbum": "Odéon antique de Lyon",
         "article": "https://en.wikipedia.org/wiki/Odeon_of_Lyon"
@@ -8731,12 +8735,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a77b00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q22967127",
         "itemLabel": "Odéon de Vienne",
         "itemDescription": "ancient Roman odeon at Vienne, France",
         "image": "",
         "geo": "Point(4.8777 45.52387)",
-        "": "45.52387)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Od%C3%A9on%20antique%20de%20Vienne.%20001.JPG",
         "picAlbum": "Odéon antique de Vienne",
         "article": ""
@@ -8752,12 +8758,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a77b00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q10149",
         "itemLabel": "Ancient theatre of Vienne",
         "itemDescription": "Ancient theater in France",
         "image": "",
         "geo": "Point(4.87888 45.5248)",
-        "": "45.5248)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Th%C3%A9%C3%A2tre%20antique%20de%20Vienne.%20019.JPG",
         "picAlbum": "Théâtre Antique de Vienne",
         "article": ""
@@ -9181,12 +9189,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#8d8600",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q276063",
         "itemLabel": "Roman amphitheater of Fréjus",
         "itemDescription": "Roman amphitheater in Fréjus, France",
         "image": "",
         "geo": "Point(6.728742 43.434452)",
-        "": "43.434452)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Frejus-amphitheatre-05.jpg",
         "picAlbum": "Amphithéâtre de Fréjus",
         "article": "https://en.wikipedia.org/wiki/Ar%C3%A8nes_de_Fr%C3%A9jus"
@@ -9202,12 +9212,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#8d8600",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q22916441",
         "itemLabel": "Roman Theatre of Fréjus",
         "itemDescription": "Ancient Roman theatre in Fréjus, France",
         "image": "",
         "geo": "Point(6.73816 43.436929)",
-        "": "43.436929)",
         "pic": "",
         "picAlbum": "",
         "article": ""
