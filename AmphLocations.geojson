@@ -8714,12 +8714,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d95000",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q3124",
         "itemLabel": "Roman amphitheatre of the Three Gauls",
         "itemDescription": "Roman amphitheatre in France",
         "image": "",
         "geo": "Point(4.830555555 45.770555555)",
-        "": "45.770555555)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/03.%20Amphith%C3%A9atre%20des%20Trois%20Gaules.JPG",
         "picAlbum": "Amphithéâtre des Trois Gaules (Lyon)",
         "article": "https://en.wikipedia.org/wiki/Amphitheatre_of_the_Three_Gauls"
