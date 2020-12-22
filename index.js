@@ -9759,6 +9759,8 @@ map.addControl(
 map.addControl(new mapboxgl.FullscreenControl());
 map.doubleClickZoom.disable();
 map.addControl(new mapboxgl.NavigationControl());// Add zoom and rotation controls to the map.
+// map.addControl(new MapboxStyleSwitcherControl());
+
 
 $(document).ready(function () {
     getImagesFromWikiCommons();
@@ -9795,55 +9797,41 @@ function getImagesFromWikiCommons() {
 }
 
 function processResult(apiResult) {
-    $("#jsonresults").append("testing");
-    // console.log(apiResult.query.pages);
-
+    console.log(apiResult.query.pages);
     $.each(apiResult.query.pages, function (key, value) {
-        // console.log(value);encodeURI(value.title)
-        var url =
-            "http://commons.wikimedia.org/wiki/Special:FilePath/" +
-            encodeURIComponent(value.title);
-        // console.log(url);
-        if (value.coordinates != undefined) {
-            if (value.coordinates.length == 1) {
-                if (value.coordinates[0].type == "camera") {
-                    addPointTogeojsonCamera(
-                        value.coordinates[0].lon,
-                        value.coordinates[0].lat,
-                        url
-                    );
-                }
-            } else if (value.coordinates.length > 1) {
-                addLineOfSightToGeojson(
-                    value.coordinates[0].lon,
-                    value.coordinates[0].lat,
-                    value.coordinates[1].lon,
-                    value.coordinates[1].lat,
-                    url
-                );
-                for (i in value.coordinates) {
-                    if (value.coordinates[0].type == "camera") {
-                        addPointTogeojsonCamera(
-                            value.coordinates[0].lon,
-                            value.coordinates[0].lat,
-                            url
-                        );
-                    }
+
+        var prop = {
+            title: value.title.replace("File:", ""),
+            url: "http://commons.wikimedia.org/wiki/Special:FilePath/" + encodeURIComponent(value.title),
+        }
+
+        if (value.coordinates != undefined) { //if there are any coordinates
+            for (i in value.coordinates) { // look throug all coordinates 
+                if (value.coordinates[i].type == "camera") { // if type is camera
+                    prop.cameraLonLat = [value.coordinates[i].lon, value.coordinates[i].lat] // save camera coordinats
+                } else if (value.coordinates[i].type == "object") { // if type is object 
+                    prop.subjectLonLat = [value.coordinates[i].lon, value.coordinates[i].lat] // save subject coordinats
                 }
             }
         }
+
+        if (prop.cameraLonLat != undefined && prop.subjectLonLat != undefined) {
+            addPointTogeojsonCamera(prop);
+            addLineOfSightToGeojson(prop);
+        } else if (prop.cameraLonLat != undefined) {
+            addPointTogeojsonCamera(prop);
+        }
+
     });
 }
 
-function addPointTogeojsonCamera(lon, lat, url) {
+function addPointTogeojsonCamera(prop) {
     var feature = {
         type: "Feature",
-        properties: {
-            url: url
-        },
+        properties: prop,
         geometry: {
             type: "Point",
-            coordinates: [lon, lat]
+            coordinates: prop.cameraLonLat
         }
     };
 
@@ -9858,17 +9846,15 @@ function addPointTogeojsonCamera(lon, lat, url) {
     updatesgeojsonCamera();
 }
 
-function addLineOfSightToGeojson(lon1, lat1, lon2, lat2, url) {
+function addLineOfSightToGeojson(prop) {
     geojsonLineOfSight.features.push({
         type: "Feature",
-        properties: {
-            url: url
-        },
+        properties: prop,
         geometry: {
             type: "LineString",
             coordinates: [
-                [lon1, lat1],
-                [lon2, lat2]
+                prop.cameraLonLat,
+                prop.subjectLonLat
             ]
         }
     });
@@ -9956,8 +9942,8 @@ map.on("load", function () {
     });
     map.on("click", "camerasLayer", function (e) {
         if (e.features.length > 0) {
-            url = e.features[0].properties.url;
-            displayImage(url);
+            // url = e.features[0].properties.url;
+            displayImage(e.features[0].properties);
         }
     });
 
@@ -9974,8 +9960,8 @@ map.on("load", function () {
     });
     map.on("click", "lineOfSightLayer", function (e) {
         if (e.features.length > 0) {
-            url = e.features[0].properties.url;
-            displayImage(url);
+            // url = e.features[0].properties.url;
+            displayImage(e.features[0].properties);
         }
     });
 
@@ -10031,17 +10017,48 @@ function preview(url) {
     }
 }
 
-function displayImage(url) {
-    if (url != undefined) {
-        var html =
+function displayImage(prop) {
+    // galeryVieuw(true)
+    if (prop != undefined) {
+        var nearestArray = findArrayOfNearestPoints(prop);
+        for (i in nearestArray) {
+            // ======== generate every new img =======
+            var html =
             '<img id="fullSizeImg" onclick="displayImage()" src="' +
-            url +
-            '?width=1920px" alt="">';
-        $("body").append(html);
-        $("#map").addClass("blur");
+            nearestArray[i].url +
+            '?width=1920px" alt="'+nearestArray[i].title+'">';
+            $("#gallery").append(html);
+        }
+        galeryVieuw(true)
     } else {
         $("#fullSizeImg").remove();
-        $("#map").removeClass("blur");
+        galeryVieuw(false)
     }
 }
 
+function galeryVieuw(on) {
+    if (on) {
+        $(".mapboxgl-canvas-container").addClass("blur");
+        $(".mapboxgl-control-container").addClass("blur");
+        $("#gallery").addClass("on")    
+    } else {
+        $(".mapboxgl-canvas-container").removeClass("blur");
+        $(".mapboxgl-control-container").removeClass("blur");
+        $("#gallery").removeClass("on")
+        // ========= when gallery closed, galery should be emptied. =========
+    }
+}
+
+
+function findArrayOfNearestPoints(prop) {
+    var nearestPointsArray = [];
+    var refLonLat = turf.point(JSON.parse(prop.cameraLonLat)); // make geojson point form LonLat string
+    var geojsonLayer = map.getSource('cameras')._data // geojson from camera layer
+    for (i in geojsonLayer.features) { // for as many thies as there are points in the layer
+        var nearest = turf.nearestPoint(refLonLat, geojsonLayer).properties // Look for nearest point. and only keep properties
+        nearestPointsArray.push(nearest) // save properties of nearest point to be sent back.
+        geojsonLayer.features.splice(nearest.featureIndex,1); // remove the nearest point from the layer to be able to find the next nearest
+    }
+
+    return nearestPointsArray;// retrun array of properties in order of nearest.
+}
