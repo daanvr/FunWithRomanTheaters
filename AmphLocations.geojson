@@ -9065,12 +9065,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7a4a00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q29001164",
         "itemLabel": "Nyon amphitheatre",
         "itemDescription": "Roman amphitheatre in Nyon, Switzerland",
         "image": "",
         "geo": "Point(6.2410225 46.383398055)",
-        "": "46.383398055)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Amphith%C3%A9%C3%A2tre%20de%20Nyon%20-%2002.jpg",
         "picAlbum": "",
         "article": ""
@@ -9316,12 +9318,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a77b00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28978083",
         "itemLabel": "Segusium amphitheatre",
         "itemDescription": "Roman amphitheatre in Susa, Italy",
         "image": "",
         "geo": "Point(7.045 45.133)",
-        "": "45.133)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Susa%20anfiteatro.jpg",
         "picAlbum": "",
         "article": ""
@@ -9360,12 +9364,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ad3e00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q2844412",
         "itemLabel": "Roman amphitheatre of Martigny",
         "itemDescription": "Roman amphitheatre in Martigny, Switzerland",
         "image": "",
         "geo": "Point(7.073432 46.094354)",
-        "": "46.094354)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Martigny%2C%20ville%20romaine%20et%20moderne%2C%20amphith%C3%A9%C3%A2tre.jpg",
         "picAlbum": "Amphithéâtre de Martigny",
         "article": ""
@@ -9404,12 +9410,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d29d00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q3527911",
         "itemLabel": "Roman Theatre of Aosta",
         "itemDescription": "ancient Roman theatre or odeon in Aosta, Italy",
         "image": "",
         "geo": "Point(7.3223 45.73841)",
-        "": "45.73841)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Aosta%20Teatro%20romano%2003.jpg",
         "picAlbum": "Ancient Roman theatre (Aosta)",
         "article": "https://en.wikipedia.org/wiki/Roman_Theatre,_Aosta"
@@ -9425,12 +9433,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q2844396",
         "itemLabel": "Roman amphitheatre of Aoste",
         "itemDescription": "Roman amphitheatre in Aoste, Italy",
         "image": "",
         "geo": "Point(7.323418 45.740933)",
-        "": "45.740933)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Arena%20anfiteatro%20di%20aosta.jpg",
         "picAlbum": "Amphitheatre (Aosta)",
         "article": ""
@@ -9538,12 +9548,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ad3e00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3982371",
         "itemLabel": "Roman Theatre of Turin",
         "itemDescription": "ancient Roman theatre in Turin, Italy",
         "image": "",
         "geo": "Point(7.68551389 45.07397222)",
-        "": "45.07397222)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatro%20romano%20di%20torino%2001.JPG",
         "picAlbum": "Roman theatre in Turin",
         "article": ""
@@ -9651,12 +9663,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q16526592",
         "itemLabel": "Roman Amphitheatre of Ivrea",
         "itemDescription": "building in Ivrea, Italy",
         "image": "",
         "geo": "Point(7.908216 45.469276)",
-        "": "45.469276)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Anfiteatro%20romano%20di%20ivrea.jpg",
         "picAlbum": "Amphitheatre (Ivrea)",
         "article": ""
