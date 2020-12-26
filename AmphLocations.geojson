@@ -3292,12 +3292,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#9aa60e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28977985",
         "itemLabel": "Aquileia amphitheatre",
         "itemDescription": "Roman amphitheatre in Aquileia, Italy",
         "image": "",
         "geo": "Point(13.366 45.769)",
-        "": "45.769)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -3796,12 +3798,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a96800",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q752696",
         "itemLabel": "Roman Theatre of Trieste",
         "itemDescription": "ancient Roman theatre in Trieste, Italy",
         "image": "",
         "geo": "Point(13.77167 45.64917)",
-        "": "45.64917)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatro%20Romano%20di%20Trieste%204.jpg",
         "picAlbum": "Ancient Roman theatre (Trieste)",
         "article": ""
@@ -3863,12 +3867,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#8d8600",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q474998",
         "itemLabel": "Pula Arena",
         "itemDescription": "Roman amphitheatre in Pula, Croatia",
         "image": "",
         "geo": "Point(13.85 44.873)",
-        "": "44.873)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20new%20old%20amphitheater%20in%20Pula%20Istria%20%2819629095974%29.jpg",
         "picAlbum": "Amphitheatre (Pula)",
         "article": "https://en.wikipedia.org/wiki/Pula_Arena"
@@ -8852,12 +8858,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#b51a00",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q3527841",
         "itemLabel": "Théâtre antique de Marseille",
         "itemDescription": "",
         "image": "",
         "geo": "Point(5.364722222 43.296388888)",
-        "": "43.296388888)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Marseille%20th%C3%A9%C3%A2tre%20plan.svg",
         "picAlbum": "Théâtre antique de Marseille",
         "article": ""
@@ -8873,12 +8881,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d95000",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q3527588",
         "itemLabel": "Q3527588",
         "itemDescription": "",
         "image": "",
         "geo": "Point(5.43722 43.5303)",
-        "": "43.5303)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -9371,12 +9381,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#4f7a28",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q2866137",
         "itemLabel": "arènes de Cimiez",
         "itemDescription": "Roman amphitheatre in Nice, France",
         "image": "",
         "geo": "Point(7.27531944 43.71999167)",
-        "": "43.71999167)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Ar%C3%A8nes%20romaines%20de%20Cimiez.jpg",
         "picAlbum": "Arènes de Cimiez",
         "article": ""
@@ -9480,12 +9492,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#d29d00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q46388876",
         "itemLabel": "Roman theatre of Albintimilum",
         "itemDescription": "ancient Roman theatre in Ventimiglia, Italy",
         "image": "",
         "geo": "Point(7.62535 43.78934)",
-        "": "43.78934)",
         "pic": "http://commons.wikimedia.org/wiki/Special:FilePath/Teatro%20di%20Ventimiglia%202.JPG",
         "picAlbum": "Ancient Roman theatre (Ventimiglia)",
         "article": ""
@@ -9568,12 +9582,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a77b00",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28977997",
         "itemLabel": "Augusta Bagiennorum amphitheatre",
         "itemDescription": "Roman amphitheatre in Bene Vagienna, Italy",
         "image": "",
         "geo": "Point(7.85 44.556)",
-        "": "44.556)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -9589,12 +9605,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#831100",
+        "marker-size": "medium",
+        "marker-symbol": "theatre",
         "item": "http://www.wikidata.org/entity/Q28978057",
         "itemLabel": "Pollentia amphitheatre",
         "itemDescription": "Roman amphitheatre in Bra, Italy",
         "image": "",
         "geo": "Point(7.896 44.685)",
-        "": "44.685)",
         "pic": "",
         "picAlbum": "",
         "article": ""
@@ -9746,12 +9764,14 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#ff4013",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "item": "http://www.wikidata.org/entity/Q28977974",
         "itemLabel": "Albingaunum amphitheatre",
         "itemDescription": "Roman amphitheatre in Albenga, Italy",
         "image": "",
         "geo": "Point(8.211 44.044)",
-        "": "44.044)",
         "pic": "",
         "picAlbum": "",
         "article": ""
