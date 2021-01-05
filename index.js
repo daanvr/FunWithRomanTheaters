@@ -9826,6 +9826,12 @@ function processResult(apiResult) {
 }
 
 function addPointTogeojsonCamera(prop) {
+    for (i in geojsonCamera.features) {
+        if (geojsonCamera.features[i].properties.title === prop.title) {
+            return;
+        }
+
+    }
     var feature = {
         type: "Feature",
         properties: prop,
@@ -9834,6 +9840,8 @@ function addPointTogeojsonCamera(prop) {
             coordinates: prop.cameraLonLat
         }
     };
+    geojsonCamera.features.push(feature);
+    updatesgeojsonCamera();
 
     // var alreadyExists = jQuery.inArray(url, geojsonCamera.features);
 
@@ -9841,9 +9849,7 @@ function addPointTogeojsonCamera(prop) {
     // console.log(alreadyExists)
 
     // if(alreadyExists.lenght == 0) {
-    geojsonCamera.features.push(feature);
     // }
-    updatesgeojsonCamera();
 }
 
 function addLineOfSightToGeojson(prop) {
@@ -9933,7 +9939,7 @@ map.on("load", function () {
         if (e.features.length > 0) {
             url = e.features[0].properties.url;
             filterBy(url);
-            preview(url);
+            preview(url + "?width=300px");
         }
     });
     map.on("mouseleave", "camerasLayer", function () {
@@ -9951,7 +9957,7 @@ map.on("load", function () {
         if (e.features.length > 0) {
             url = e.features[0].properties.url;
             filterBy(url);
-            preview(url);
+            preview(url + "?width=300px");
         }
     });
     map.on("mouseleave", "lineOfSightLayer", function () {
@@ -10026,33 +10032,54 @@ function preview(url) {
 // =====================================================
 
 function displayImage(prop) {
-    // galeryVieuw(true)
     if (prop != undefined) {
         var nearestArray = findArrayOfNearestPoints(prop);
+        
+        var imgForCarousel = [];
         for (i in nearestArray) {
             // ======== generate every new img =======
-            var html =
-            '<img id="fullSizeImg" onclick="displayImage()" src="' +
-            nearestArray[i].url +
-            '?width=1920px" alt="'+nearestArray[i].title+'">';
-            $("#gallery").append(html);
+            //expecting an object with: alt, imgUrl, commonsUrl, locatorUrl, imgLng, imgLat
+            var newCarousselImg = {
+                title: nearestArray[i].title,
+                alt: nearestArray[i].title,
+                imgUrl: nearestArray[i].url + "?width=1200px",
+                commonsUrl: nearestArray[i].url,
+                locatorUrl: "",
+                imgLng: nearestArray[i].cameraLonLat[0],
+                imgLat: nearestArray[i].cameraLonLat[1]
+            };
+            imgForCarousel.push(newCarousselImg)
+
         }
-        galeryVieuw(true)
+        // resetCarouselContent(imgForCarousel)
+        newImgBoxs(imgForCarousel);
+
     } else {
-        $("#fullSizeImg").remove();
-        galeryVieuw(false)
+        galeryVieuw(false) // back to normal map mode (no blure)
+        resetCarouselContent() // remove images in carousel
     }
+}
+
+function makeCarouselSectionVisible() {
+    galeryVieuw(true);
+}
+
+function carouselPositionCallback(ImgLonLat) {
+    map.flyTo({
+        center: ImgLonLat,
+        speed: 1
+    });
 }
 
 function galeryVieuw(on) {
     if (on) {
         $(".mapboxgl-canvas-container").addClass("blur");
         $(".mapboxgl-control-container").addClass("blur");
-        $("#gallery").addClass("on")    
+        $("#carouselSection").addClass("on")
     } else {
         $(".mapboxgl-canvas-container").removeClass("blur");
         $(".mapboxgl-control-container").removeClass("blur");
-        $("#gallery").removeClass("on")
+        $("#carouselSection").removeClass("on")
         // ========= when gallery closed, galery should be emptied. =========
     }
 }
@@ -10061,11 +10088,14 @@ function galeryVieuw(on) {
 function findArrayOfNearestPoints(prop) {
     var nearestPointsArray = [];
     var refLonLat = turf.point(JSON.parse(prop.cameraLonLat)); // make geojson point form LonLat string
-    var geojsonLayer = map.getSource('cameras')._data // geojson from camera layer
+    var geojsonLayerMapbox = map.getSource('cameras')._data // geojson from camera layer
+    const geojsonLayer = JSON.parse(JSON.stringify(geojsonLayerMapbox));
+
+    console.log(geojsonLayer)
     for (i in geojsonLayer.features) { // for as many thies as there are points in the layer
         var nearest = turf.nearestPoint(refLonLat, geojsonLayer).properties // Look for nearest point. and only keep properties
         nearestPointsArray.push(nearest) // save properties of nearest point to be sent back.
-        geojsonLayer.features.splice(nearest.featureIndex,1); // remove the nearest point from the layer to be able to find the next nearest
+        geojsonLayer.features.splice(nearest.featureIndex, 1); // remove the nearest point from the layer to be able to find the next nearest
     }
 
     return nearestPointsArray;// retrun array of properties in order of nearest.

@@ -1,0 +1,109 @@
+/* body {
+  margin: 0;
+} */
+
+.carouselSection {
+    display: flex;
+    justify-content: center;
+}
+
+.carouselSection .container {
+    width: 100vw;
+    height: 100vh;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+    overflow-y: hidden;
+    scroll-snap-type: x mandatory;
+}
+
+.carouselSection .wrapper {
+    width: max-content;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.carouselSection .imgBox {
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+    max-width: 80vw;
+    max-height: 80vh;
+    scroll-snap-align: center;
+    overflow: hidden;
+}
+
+.carouselSection .imgBox.active {
+    position: relative;
+    border: solid white 2px;
+    z-index: 10;
+}
+
+.carouselSection .imgInBox.hover {
+    filter: blur(5px) brightness(0.75);
+}
+
+.carouselSection .imgInBox {
+    display: block;
+    object-fit: contain;
+    max-width: 100%;
+    max-height: 80vh;
+}
+
+/* #paddingFirst {} */
+
+.carouselSection .infoInBox {
+    position: absolute;
+    display: none;
+    /*   border: solid 1px red; */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    overflow: auto;
+    max-height: 100%;
+}
+
+.carouselSection .infoInBox a {
+    background-color: rgba(256, 256, 256, 0.75);
+    color: black;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 5px 10px;
+    margin: 10px;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.carouselSection .infoInBox h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: normal;
+    text-align: center;
+}
+
+.carouselSection .prev, .carouselSection .next {
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    width: auto;
+    padding: 0 15%;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    user-select: none;
+    height: 100vh;
+    background-position: 3% center;
+    background-repeat: no-repeat;
+    background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='36px' height='107px' viewBox='0 0 36 107' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3C!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch --%3E%3Ctitle%3EGroup Copy%3C/title%3E%3Cdesc%3ECreated with Sketch.%3C/desc%3E%3Cdefs%3E%3Cfilter x='-78.6%25' y='-18.1%25' width='252.4%25' height='136.3%25' filterUnits='objectBoundingBox' id='filter-1'%3E%3CfeOffset dx='-2' dy='2' in='SourceAlpha' result='shadowOffsetOuter1'%3E%3C/feOffset%3E%3CfeGaussianBlur stdDeviation='2.5' in='shadowOffsetOuter1' result='shadowBlurOuter1'%3E%3C/feGaussianBlur%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.33 0' type='matrix' in='shadowBlurOuter1' result='shadowMatrixOuter1'%3E%3C/feColorMatrix%3E%3CfeMerge%3E%3CfeMergeNode in='shadowMatrixOuter1'%3E%3C/feMergeNode%3E%3CfeMergeNode in='SourceGraphic'%3E%3C/feMergeNode%3E%3C/feMerge%3E%3C/filter%3E%3C/defs%3E%3Cg id='Page-1' stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' opacity='0.75' stroke-linecap='round' stroke-linejoin='round'%3E%3Cg id='Group-Copy' filter='url(%23filter-1)' transform='translate(19.500000, 51.500000) rotate(180.000000) translate(-19.500000, -51.500000) translate(9.000000, 6.000000)' stroke='%23F7F7F7' stroke-width='5'%3E%3Cpath d='M20.4140918,45.8724013 L-1.11910481e-13,90.9069598' id='Path-Copy'%3E%3C/path%3E%3Cpath d='M-1.11910481e-13,-2.13162821e-14 L20.4140918,45.8724013' id='Path-Copy'%3E%3C/path%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}
+
+.carouselSection .next {
+    right: 0;
+    background-position: 97%, center;
+    background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8'%3F%3E%3Csvg width='36px' height='107px' viewBox='0 0 36 107' version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3C!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch --%3E%3Ctitle%3EGroup Copy%3C/title%3E%3Cdesc%3ECreated with Sketch.%3C/desc%3E%3Cdefs%3E%3Cfilter x='-78.6%25' y='-18.1%25' width='252.4%25' height='136.3%25' filterUnits='objectBoundingBox' id='filter-1'%3E%3CfeOffset dx='2' dy='2' in='SourceAlpha' result='shadowOffsetOuter1'%3E%3C/feOffset%3E%3CfeGaussianBlur stdDeviation='2.5' in='shadowOffsetOuter1' result='shadowBlurOuter1'%3E%3C/feGaussianBlur%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.33 0' type='matrix' in='shadowBlurOuter1' result='shadowMatrixOuter1'%3E%3C/feColorMatrix%3E%3CfeMerge%3E%3CfeMergeNode in='shadowMatrixOuter1'%3E%3C/feMergeNode%3E%3CfeMergeNode in='SourceGraphic'%3E%3C/feMergeNode%3E%3C/feMerge%3E%3C/filter%3E%3C/defs%3E%3Cg id='Page-1' stroke='none' stroke-width='1' fill='none' fill-rule='evenodd' opacity='0.75' stroke-linecap='round' stroke-linejoin='round'%3E%3Cg id='Group-Copy' filter='url(%23filter-1)' transform='translate(6.000000, 6.000000)' stroke='%23F7F7F7' stroke-width='5'%3E%3Cpath d='M20.4140918,45.8724013 L-1.11910481e-13,90.9069598' id='Path-Copy'%3E%3C/path%3E%3Cpath d='M-1.11910481e-13,-2.13162821e-14 L20.4140918,45.8724013' id='Path-Copy'%3E%3C/path%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}
+
+.carouselSection .prev:hover, .carouselSection .next:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}

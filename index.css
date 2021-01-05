@@ -22,20 +22,28 @@ body {
     box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.33);
   }
   
-  #fullSizeImg {
+  #carouselSection {
+    display: none;
     position: absolute; 
     left: 0; 
     right: 0;
     top: 0;
     bottom: 0;
-    margin: auto; 
-    max-width: 90vw;
-    max-height: 90vh;
+    /* margin: auto;  */
+    /* max-width: 90vw; */
+    /* max-height: 90vh; */
     z-index: 110;
-    border-radius: 10px;
-    box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.33);
+    /* border-radius: 10px; */
+    /* box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.33); */
   }
   
+  #carouselSection.on {
+    display: flex;
+  }
+
+
   .blur {
     filter: blur(15px);
   }
+
+  
