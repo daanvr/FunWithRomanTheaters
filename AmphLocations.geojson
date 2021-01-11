@@ -10547,6 +10547,22 @@
           32.902019779895376
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tiddis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.484090089797973,
+          36.46315515558422
+        ]
+      }
     }
   ]
 }
