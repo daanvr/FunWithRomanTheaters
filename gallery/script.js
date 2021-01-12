@@ -89,9 +89,9 @@ function newImgBoxs(arrayOfImgObjs) {
         var idNbr = Number(i);
         var html = "";
         //prop.cameraLonLat
-        html += '<div class="imgBox" id="imgBox' + idNbr + '"  onclick="displayImage()" data-lon="' + arrayOfImgObjs[i].imgLng + '" data-lat="' + arrayOfImgObjs[i].imgLat + '">';
+        html += '<div class="imgBox" id="imgBox' + idNbr + '"   data-lon="' + arrayOfImgObjs[i].imgLng + '" data-lat="' + arrayOfImgObjs[i].imgLat + '">';
         html +=
-            '<img class="imgInBox" id="" src="' +
+            '<img class="imgInBox" id="" onclick="displayImage()" src="' +
             arrayOfImgObjs[i].imgUrl +
             '" alt="' +
             arrayOfImgObjs[i].alt +
@@ -108,11 +108,16 @@ function newImgBoxs(arrayOfImgObjs) {
             html += '<a href="https://locator-tool.toolforge.org/#/geolocate?files=File:' + encodeURIComponent(arrayOfImgObjs[i].title) + '" target="_blank">Image locator tool</a>';
         }
         if (arrayOfImgObjs[i].imgLng != undefined && arrayOfImgObjs[i].imgLat != undefined) {
-            html += '<a href="" target="_blank">Images around this image</a>';
-            // html += '<a href="https://www.google.com/maps/@' + arrayOfImgObjs[i].imgLat + ' ,' + arrayOfImgObjs[i].imgLng + ',1000m" target="_blank">Google Maps</a>';
+            // var imgInfo = {
+            //     "cameraLonLat": [arrayOfImgObjs[i].imgLat, arrayOfImgObjs[i].imgLng]
+            // };
+            // html += '<a href="" onclick="displayImage(' + JSON.stringify(imgInfo) + ')" target="_blank"> Images around this image </a> ';
             html += '<a href="https://www.google.com/maps/@?api=1&map_action=map&center=' + arrayOfImgObjs[i].imgLat + ',' + arrayOfImgObjs[i].imgLng + '&zoom=18&basemap=satellite" target="_blank">Google Maps</a>';
-            html += '<a href="" target="_blank">Bing Maps</a>';
-            html += '<a href="" target="_blank">WikiShootMe</a>';
+            html += '<a href="https://earth.google.com/web/@' + arrayOfImgObjs[i].imgLat + ',' + arrayOfImgObjs[i].imgLng + ',1000a,1000d,35y,0h,45t,0r/data=KAI" target="_blank">Google Earth Online</a>'; //https://www.gearthblog.com/blog/archives/2017/04/fun-stuff-new-google-earth-url.html
+            html += '<a href="https://bing.com/maps/default.aspx?cp=' + arrayOfImgObjs[i].imgLat + '~' + arrayOfImgObjs[i].imgLng + '&lvl=18&style=a" target="_blank">Bing Maps</a>';
+            html += '<a href="https://yandex.com/maps/?l=sat&ll=' + arrayOfImgObjs[i].imgLng + '%2C' + arrayOfImgObjs[i].imgLat + '&z=17" target="_blank">Yandex Maps</a>';
+            html += '<a href="https://wego.here.com/?map=' + arrayOfImgObjs[i].imgLat + ',' + arrayOfImgObjs[i].imgLng + ',17,satellite&x=ep" target="_blank">Here Maps</a>';
+            html += '<a href="https://wikishootme.toolforge.org/#lat=' + arrayOfImgObjs[i].imgLat + '&lng=' + arrayOfImgObjs[i].imgLng + '&zoom=18" target="_blank">WikiShootMe</a>';
         }
         html += "</div>";
         html += "</div>";

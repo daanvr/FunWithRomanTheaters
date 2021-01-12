@@ -10032,6 +10032,7 @@ function preview(url) {
 // =====================================================
 
 function displayImage(prop) {
+    console.log(prop)
     if (prop != undefined) {
         var nearestArray = findArrayOfNearestPoints(prop);
         
