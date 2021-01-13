@@ -10579,6 +10579,22 @@
           35.19974098166287
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Volubilis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.555026531219482,
+          34.07373283470901
+        ]
+      }
     }
   ]
 }
