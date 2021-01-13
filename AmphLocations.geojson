@@ -10563,6 +10563,22 @@
           36.46315515558422
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#77bb41",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Lixus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.111005544662476,
+          35.19974098166287
+        ]
+      }
     }
   ]
 }
