@@ -10595,6 +10595,38 @@
           34.07373283470901
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#96e363",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sala Colonia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.821254491806029,
+          34.00699276246339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#559550",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Diana Veteranorum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.075214147567749,
+          35.78026456501883
+        ]
+      }
     }
   ]
 }
