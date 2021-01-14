@@ -10627,6 +10627,22 @@
           35.78026456501883
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#96e39f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tipaza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.443771362304687,
+          36.594555623891075
+        ]
+      }
     }
   ]
 }
