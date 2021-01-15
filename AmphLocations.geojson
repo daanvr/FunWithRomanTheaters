@@ -10761,6 +10761,40 @@
           20.68258784469161
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Huaca de la Luna",
+        "wikidata": "Q1544441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.99091601371765,
+          -8.13482554095258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Machu Picchu",
+        "wikidata": "Q676203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.54517078399658,
+          -13.16309418555822
+        ]
+      }
     }
   ]
 }
