@@ -10795,6 +10795,23 @@
           -13.16309418555822
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Notelade",
+        "wikidata": "Q61750"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.67338061332703,
+          -16.55487214333016
+        ]
+      }
     }
   ]
 }
