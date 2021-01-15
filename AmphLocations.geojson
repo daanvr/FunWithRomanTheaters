@@ -10677,6 +10677,23 @@
           17.484567726521433
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Calakmul",
+        "wikidata": "Q272771"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.81049656867981,
+          18.105188362797385
+        ]
+      }
     }
   ]
 }
