@@ -10714,12 +10714,32 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#669c35",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Zaculeu"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.95547533035277,
-          15.084140523504454
+          -91.4930972456932,
+          15.3338897760324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1221933364868,
+          15.274151170051518
         ]
       }
     }
