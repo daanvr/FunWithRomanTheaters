@@ -10694,6 +10694,23 @@
           18.105188362797385
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tikal",
+        "wikidata": "Q181172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.62316036224365,
+          17.22186834586861
+        ]
+      }
     }
   ]
 }
