@@ -10731,15 +10731,17 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#4f7a28",
         "marker-size": "medium",
-        "marker-symbol": ""
+        "marker-symbol": "",
+        "name": "Chinkultic",
+        "wikidata": "Q655127"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -91.1221933364868,
-          15.274151170051518
+          -91.78509593009949,
+          16.12899173564014
         ]
       }
     }
