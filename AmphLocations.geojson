@@ -4,6 +4,23 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Monte Albán",
+        "wikidata": "Q464899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.76807165145873,
+          17.04381940921801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "marker-color": "#f5ec00",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -10641,6 +10658,23 @@
         "coordinates": [
           2.443771362304687,
           36.594555623891075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Palenqué",
+        "wikidata": "Q181427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.04604268074036,
+          17.484567726521433
         ]
       }
     }
