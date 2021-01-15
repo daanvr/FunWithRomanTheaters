@@ -10744,6 +10744,23 @@
           16.12899173564014
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#96d35f",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Chichen Itza",
+        "wikidata": "Q5859"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.56894493103027,
+          20.68258784469161
+        ]
+      }
     }
   ]
 }
