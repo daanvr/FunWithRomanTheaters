@@ -249,7 +249,23 @@ function BACKUPcalcScrollPositionsForWindowScroll() {
 // --- 3 exemples of valid function calls to move carousel ---
 // ScrollToImg(8);
 // ScrollToImg(undefined, true);
-// activatScrollToImgeImage(undefined, false, true);
+// ScrollToImg(undefined, false, true);
+
+$(document).keydown(
+    function(e)
+    {    
+        if (e.keyCode == 39) {      
+            ScrollToImg(undefined, true);
+
+        }
+        if (e.keyCode == 37) {      
+            ScrollToImg(undefined, false, true);
+
+        }
+    }
+);
+
+
 
 function ScrollToImg(imgNbr, next, previous) {
 
