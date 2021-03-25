@@ -11934,6 +11934,21 @@
           38.30487374561119
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7a4a00",
+        "marker-size": "medium",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.173521041870117,
+          38.07301105293745
+        ]
+      }
     }
   ]
 }
